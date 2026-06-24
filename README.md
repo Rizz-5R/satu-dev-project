@@ -1,56 +1,245 @@
-Suqura: Smart Encyclopedia for Comprehensive Qur'an & Hadith Studies
-Smart Learning Hub & Digital Encyclopedia of Islamic Studies
+# 📖 Suqura
+### Smart Encyclopedia for Comprehensive Qur'an & Hadith Studies
 
-Sebuah platform edukasi modern yang merangkum khazanah keilmuan Al-Qur'an dan Hadis, biografi tokoh, serta metodologi kritik dalam satu ekosistem digital yang responsif dan mudah diakses.
+> Smart Learning Hub & Digital Encyclopedia of Islamic Studies
 
-🌟 1. Latar Belakang
-Studi Al-Qur'an (Ulumul Qur'an) dan Hadis sering kali dianggap sebagai materi yang kompleks dan padat karena melibatkan rumpun keilmuan yang luas—mulai dari sejarah penulisan, metodologi tafsir, hingga kritik sanad dan matan. Di era digital ini, terdapat kebutuhan besar akan sebuah wadah yang mampu menyederhanakan informasi tersebut tanpa mengurangi validitas ilmiahnya.
+Suqura merupakan platform edukasi digital berbasis web yang dirancang untuk membantu pengguna mempelajari Studi Al-Qur'an dan Hadis secara terstruktur, interaktif, dan mudah dipahami. Platform ini mengintegrasikan materi Ulumul Qur'an, Ulumul Hadis, tokoh-tokoh ulama, kitab-kitab klasik, serta metodologi tafsir dan kritik hadis dalam satu ekosistem pembelajaran modern.
 
-Suqura hadir sebagai solusi berbasis web untuk menjembatani teks-teks klasik khazanah Islam (turats) dengan metode pembelajaran modern yang cerdas (smart learning), terstruktur, dan interaktif guna meningkatkan literasi digital islami di Indonesia.
+---
 
-🎯 2. Visi & Misi
-Visi:
+## 🌟 Latar Belakang
+
+Studi Al-Qur'an (Ulumul Qur'an) dan Hadis merupakan cabang ilmu yang memiliki cakupan luas dan kompleks, mulai dari sejarah kodifikasi, metodologi tafsir, hingga kritik sanad dan matan. Banyak sumber pembelajaran masih tersebar dalam berbagai referensi yang sulit diakses oleh pemula.
+
+Di era digital, dibutuhkan sebuah platform yang mampu menyederhanakan informasi tersebut tanpa mengurangi validitas ilmiahnya.
+
+**Suqura** hadir sebagai solusi berbasis web yang menjembatani khazanah keilmuan Islam klasik (*turats*) dengan pendekatan pembelajaran digital modern (*smart learning*), terstruktur, dan interaktif untuk meningkatkan literasi keislaman masyarakat.
+
+---
+
+## 🎯 Visi & Misi
+
+### Visi
+
 Menjadi platform ensiklopedia digital terdepan yang menginspirasi generasi muda untuk mendalami studi Al-Qur'an dan Hadis secara ilmiah, mudah, dan menyenangkan.
 
-Misi:
-Menyediakan akses materi Ulumul Qur'an dan Studi Hadis yang terstruktur dan tervalidasi.
+### Misi
 
-Mengintegrasikan profil tokoh ulama klasik dengan karya kitab mereka dalam satu jaringan informasi yang saling terhubung (cross-linking).
+- Menyediakan akses materi Ulumul Qur'an dan Studi Hadis yang terstruktur dan tervalidasi.
+- Mengintegrasikan profil tokoh ulama klasik dengan karya kitab mereka dalam satu jaringan informasi yang saling terhubung (*cross-linking*).
+- Mengembangkan antarmuka web yang responsif, minimalis, dan nyaman untuk membaca teks panjang (*high readability*).
+- Menghadirkan pengalaman belajar yang interaktif melalui timeline, peta konsep, dan kuis edukatif.
 
-Mengembangkan antarmuka web yang responsif, minimalis, dan nyaman untuk membaca teks panjang (high-readability).
+---
 
-🚀 3. Tujuan & Kegunaan
-Tujuan:
-Membangun aplikasi media pembelajaran interaktif yang siap dikompetisikan pada akhir Juni 2026.
+## 🚀 Tujuan & Kegunaan
 
-Menyederhanakan proses pencarian referensi mengenai metodologi tafsir dan kritik hadis bagi pemula maupun akademisi.
+### Tujuan
 
-Kegunaan:
-Aplikasi ini berfungsi sebagai media pembelajaran digital interaktif untuk memperdalam studi Al-Qur'an (sejarah Nuzulul Qur'an, tafsir) dan Hadis (kaidah kesahihan hadis, biografi periwayat) secara mandiri maupun terbimbing.
+- Membangun media pembelajaran digital interaktif untuk studi Al-Qur'an dan Hadis.
+- Menyederhanakan proses pencarian referensi mengenai metodologi tafsir dan kritik hadis.
+- Menyediakan sumber belajar yang mudah diakses oleh pelajar, mahasiswa, dan masyarakat umum.
+- Mengembangkan produk edukasi digital yang siap dikompetisikan pada akhir Juni 2026.
 
-👥 4. Target Pengguna
-Aplikasi ini dirancang dengan bahasa yang inklusif dan layout yang adaptif untuk memenuhi kebutuhan:
+### Kegunaan
 
-Pelajar (SD-SMA/Sederajat): Membantu memahami dasar-dasar agama secara visual dan ringkas.
+Suqura berfungsi sebagai media pembelajaran digital yang membantu pengguna memahami:
 
-Mahasiswa & Santri: Menjadi referensi cepat dalam mempelajari metodology kritik, sanad, dan tokoh-tokoh tafsir.
+- Sejarah Nuzulul Qur'an.
+- Perkembangan ilmu tafsir.
+- Ulumul Hadis.
+- Kaidah kesahihan hadis.
+- Kritik sanad dan matan.
+- Biografi tokoh dan periwayat hadis.
+- Kitab-kitab tafsir dan hadis klasik.
 
-Pengajar / Dosen: Alat bantu mengajar atau media demonstrasi di kelas yang modern.
+---
 
-🛠️ 5. Teknologi yang Digunakan
-Library Utama: React (Single Page Application)
+## 👥 Target Pengguna
 
-Styling & UI: Tailwind CSS (Mobile-first design)
+### Pelajar (SD/SMP/SMA)
 
-Penyimpanan Data: Local JSON Schema (Fast & Lightweight)
+- Memahami dasar-dasar studi Al-Qur'an dan Hadis secara visual dan ringkas.
+- Mendukung pembelajaran agama berbasis teknologi.
 
-📂 6. Struktur Menu Navigasi
-Dashboard (Home): Pintu masuk utama dengan ringkasan modul.
+### Mahasiswa & Santri
 
-Modul Ulumul Qur'an: Pengertian, Sejarah, dan Metode Tafsir.
+- Referensi cepat dalam mempelajari Ulumul Qur'an dan Ulumul Hadis.
+- Membantu memahami sanad, matan, serta metodologi kritik hadis.
 
-Modul Studi Hadis: Pengertian, Sejarah, dan Kritik Hadis.
+### Pengajar & Dosen
 
-Ensiklopedia Tokoh & Kitab: Hubungan antara biografi ulama dan kitab yang ditulisnya dilengkapi filter cepat.
+- Media pendukung pembelajaran di kelas.
+- Sarana demonstrasi materi berbasis digital yang modern.
 
-Global Search Bar: Kolom pencarian cepat di bagian navbar atas.#
+---
+
+## ✨ Fitur Utama
+
+### 📚 Modul Ulumul Qur'an
+
+- Pengertian Al-Qur'an
+- Nuzulul Qur'an
+- Sejarah Perkembangan Tafsir
+- Cabang Keilmuan Ulumul Qur'an
+- Metode Tafsir
+- Tokoh-Tokoh Tafsir
+- Studi Kitab Tafsir
+
+### 📖 Modul Studi Hadis
+
+- Pengertian Hadis
+- Ulumul Hadis
+- Riwayah dan Dirayah
+- Sejarah Perkembangan Hadis
+- Cabang Keilmuan Hadis
+- Metode Kritik Hadis
+- Tokoh-Tokoh Hadis
+- Studi Kitab Hadis
+
+### 👳 Ensiklopedia Tokoh
+
+- Biografi Ulama
+- Timeline Kehidupan
+- Guru dan Murid
+- Karya dan Kontribusi
+
+### 📕 Ensiklopedia Kitab
+
+- Profil Kitab
+- Penulis
+- Metodologi
+- Karakteristik
+- Pengaruh Keilmuan
+
+### 🕰️ Timeline Interaktif
+
+- Perkembangan Al-Qur'an
+- Perkembangan Hadis
+- Peristiwa Penting
+- Tokoh dan Kitab Terkait
+
+### 📝 Quiz & Evaluasi
+
+- Quiz Materi Al-Qur'an
+- Quiz Materi Hadis
+- Evaluasi Pembelajaran
+
+### 🔍 Global Search
+
+- Pencarian Materi
+- Pencarian Tokoh
+- Pencarian Kitab
+- Pencarian Metode dan Cabang Ilmu
+
+---
+
+## 📂 Struktur Navigasi
+
+```text
+Home
+│
+├── Al-Qur'an
+│   ├── Materi
+│   ├── Tokoh
+│   ├── Kitab
+│   └── Metode Tafsir
+│
+├── Hadis
+│   ├── Materi
+│   ├── Tokoh
+│   ├── Kitab
+│   └── Metode Kritik Hadis
+│
+├── Timeline
+│
+├── Quiz
+│
+└── Search
+```
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+### Frontend
+
+- React JS
+- React Router DOM
+- Tailwind CSS
+
+### Data Management
+
+- Local JSON Schema
+- Static Content Architecture
+
+### Architecture
+
+- Layered Architecture
+- Component-Based Development
+- Reusable UI Components
+
+---
+
+## 📁 Struktur Project
+
+```text
+src
+│
+├── assets
+├── components
+│   ├── common
+│   ├── cards
+│   ├── layout
+│   ├── timeline
+│   └── quiz
+│
+├── data
+│   ├── quran
+│   ├── hadis
+│   ├── scholars
+│   ├── books
+│   └── timeline
+│
+├── pages
+│   ├── home
+│   ├── quran
+│   ├── hadis
+│   ├── scholar
+│   ├── book
+│   ├── timeline
+│   └── quiz
+│
+├── routes
+├── hooks
+├── utils
+├── layouts
+│
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## 🎨 Design Principles
+
+- Minimalist UI
+- Mobile First Design
+- High Readability
+- Responsive Layout
+- Clean Typography
+- Islamic Modern Style
+
+---
+
+## 📄 License
+
+This project is developed for educational and research purposes.
+
+---
+
+## 👨‍💻 Development Team
+
+**Suqura Development Team**
+
+Building a smarter way to learn Qur'an and Hadith Studies in the digital era.
