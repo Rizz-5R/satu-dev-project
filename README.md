@@ -1,4 +1,4 @@
-# 📖 Suqura
+#  Suqura
 ### Smart Encyclopedia for Comprehensive Qur'an & Hadith Studies
 
 > Smart Learning Hub & Digital Encyclopedia of Islamic Studies
@@ -7,7 +7,7 @@ Suqura merupakan platform edukasi digital berbasis web yang dirancang untuk memb
 
 ---
 
-## 🌟 Latar Belakang
+##  Latar Belakang
 
 Studi Al-Qur'an (Ulumul Qur'an) dan Hadis merupakan cabang ilmu yang memiliki cakupan luas dan kompleks, mulai dari sejarah kodifikasi, metodologi tafsir, hingga kritik sanad dan matan. Banyak sumber pembelajaran masih tersebar dalam berbagai referensi yang sulit diakses oleh pemula.
 
@@ -17,7 +17,7 @@ Di era digital, dibutuhkan sebuah platform yang mampu menyederhanakan informasi 
 
 ---
 
-## 🎯 Visi & Misi
+##  Visi & Misi
 
 ### Visi
 
@@ -32,7 +32,7 @@ Menjadi platform ensiklopedia digital terdepan yang menginspirasi generasi muda 
 
 ---
 
-## 🚀 Tujuan & Kegunaan
+##  Tujuan & Kegunaan
 
 ### Tujuan
 
@@ -55,7 +55,7 @@ Suqura berfungsi sebagai media pembelajaran digital yang membantu pengguna memah
 
 ---
 
-## 👥 Target Pengguna
+##  Target Pengguna
 
 ### Pelajar (SD/SMP/SMA)
 
@@ -74,10 +74,9 @@ Suqura berfungsi sebagai media pembelajaran digital yang membantu pengguna memah
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-### 📚 Modul Ulumul Qur'an
-
+###  Modul Ulumul Qur'an
 - Pengertian Al-Qur'an
 - Nuzulul Qur'an
 - Sejarah Perkembangan Tafsir
@@ -86,7 +85,7 @@ Suqura berfungsi sebagai media pembelajaran digital yang membantu pengguna memah
 - Tokoh-Tokoh Tafsir
 - Studi Kitab Tafsir
 
-### 📖 Modul Studi Hadis
+###  Modul Studi Hadis
 
 - Pengertian Hadis
 - Ulumul Hadis
@@ -97,14 +96,14 @@ Suqura berfungsi sebagai media pembelajaran digital yang membantu pengguna memah
 - Tokoh-Tokoh Hadis
 - Studi Kitab Hadis
 
-### 👳 Ensiklopedia Tokoh
+###  Ensiklopedia Tokoh
 
 - Biografi Ulama
 - Timeline Kehidupan
 - Guru dan Murid
 - Karya dan Kontribusi
 
-### 📕 Ensiklopedia Kitab
+###  Ensiklopedia Kitab
 
 - Profil Kitab
 - Penulis
@@ -112,20 +111,20 @@ Suqura berfungsi sebagai media pembelajaran digital yang membantu pengguna memah
 - Karakteristik
 - Pengaruh Keilmuan
 
-### 🕰️ Timeline Interaktif
+###  Timeline Interaktif
 
 - Perkembangan Al-Qur'an
 - Perkembangan Hadis
 - Peristiwa Penting
 - Tokoh dan Kitab Terkait
 
-### 📝 Quiz & Evaluasi
+###  Quiz & Evaluasi
 
 - Quiz Materi Al-Qur'an
 - Quiz Materi Hadis
 - Evaluasi Pembelajaran
 
-### 🔍 Global Search
+###  Global Search
 
 - Pencarian Materi
 - Pencarian Tokoh
@@ -134,7 +133,7 @@ Suqura berfungsi sebagai media pembelajaran digital yang membantu pengguna memah
 
 ---
 
-## 📂 Struktur Navigasi
+##  Struktur Navigasi
 
 ```text
 Home
@@ -160,7 +159,7 @@ Home
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 ### Frontend
 
@@ -181,7 +180,7 @@ Home
 
 ---
 
-## 📁 Struktur Project
+##  Struktur Project
 
 ```text
 src
@@ -221,7 +220,7 @@ src
 
 ---
 
-## 🎨 Design Principles
+##  Design Principles
 
 - Minimalist UI
 - Mobile First Design
@@ -232,13 +231,13 @@ src
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for educational and research purposes.
 
 ---
 
-## 👨‍💻 Development Team
+##  Development Team
 
 **Suqura Development Team**
 
