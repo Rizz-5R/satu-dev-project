@@ -1,4 +1,4 @@
-# Design System — Suqura
+# Design System — (Nama web)
 ### *Smart Encyclopedia for Qur'an & Hadith Studies*
 
 **Versi:** 1.0.0  
