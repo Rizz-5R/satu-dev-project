@@ -1,9 +1,9 @@
-﻿# Suqura
+﻿# (Nama web)
 ### Smart Encyclopedia for Comprehensive Qur'an & Hadith Studies
 
 > Smart Learning Hub & Digital Encyclopedia of Islamic Studies
 
-Suqura merupakan platform edukasi digital berbasis web yang dirancang untuk membantu pengguna mempelajari Studi Al-Qur'an dan Hadis secara terstruktur, interaktif, dan mudah dipahami. Platform ini mengintegrasikan materi Ulumul Qur'an, Ulumul Hadis, tokoh-tokoh ulama, kitab-kitab klasik, serta metodologi tafsir dan kritik hadis dalam satu ekosistem pembelajaran modern.
+(Nama web) merupakan platform edukasi digital berbasis web yang dirancang untuk membantu pengguna mempelajari Studi Al-Qur'an dan Hadis secara terstruktur, interaktif, dan mudah dipahami. Platform ini mengintegrasikan materi Ulumul Qur'an, Ulumul Hadis, tokoh-tokoh ulama, kitab-kitab klasik, serta metodologi tafsir dan kritik hadis dalam satu ekosistem pembelajaran modern.
 
 ---
 
@@ -13,7 +13,7 @@ Studi Al-Qur'an (Ulumul Qur'an) dan Hadis merupakan cabang ilmu yang memiliki ca
 
 Di era digital, dibutuhkan sebuah platform yang mampu menyederhanakan informasi tersebut tanpa mengurangi validitas ilmiahnya.
 
-**Suqura** hadir sebagai solusi berbasis web yang menjembatani khazanah keilmuan Islam klasik (*turats*) dengan pendekatan pembelajaran digital modern (*smart learning*), terstruktur, dan interaktif untuk meningkatkan literasi keislaman masyarakat.
+**(Nama web)** hadir sebagai solusi berbasis web yang menjembatani khazanah keilmuan Islam klasik (*turats*) dengan pendekatan pembelajaran digital modern (*smart learning*), terstruktur, dan interaktif untuk meningkatkan literasi keislaman masyarakat.
 
 ---
 
