@@ -12,7 +12,7 @@ import CtaBanner from "../../components/cards/CtaBanner";
 
 import Footer from "../../components/layout/Footer";
 
- function Home() {
+ function HomePage() {
   return (
     <div className="min-h-screen bg-white font-sans antialiased">
       <Navbar />
@@ -44,4 +44,4 @@ import Footer from "../../components/layout/Footer";
     </div>
   );
 }
-export default Home;
+export default HomePage;
