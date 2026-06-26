@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import { Hadispage } from './pages/ulumulhadis/Hadispage'
-
 import { BrowserRouter, Routes, Route} from 'react-router-dom'
-import Definisi from "./pages/ulumulhadis/detail/Definisi"
+import { DetailMateriPage } from './pages/ulumulhadis/detail/DetailMateriPage'
+import { Materihadis } from "./pages/ulumulhadis/detail/Materihadis"
 function App() {
   const [count, setCount] = useState(0)
 
@@ -12,8 +12,9 @@ function App() {
 
     <Routes>
     <Route path='/' element={<Hadispage />} />
-    <Route path='/definisi' element={<Definisi />} />
-      </Routes>
+    <Route path='/materihadis' element={<Materihadis />} />
+    <Route path='/materi/:slug' element={<DetailMateriPage />} />
+    </Routes>
     </BrowserRouter>
       
   )
