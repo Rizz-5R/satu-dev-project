@@ -1,22 +1,21 @@
 import { useState } from 'react'
-import heroImg from './assets/images/tokoh/fotoku.png'
-import './App.css'
+import { Hadispage } from './pages/ulumulhadis/Hadispage'
 
+import { BrowserRouter, Routes, Route} from 'react-router-dom'
+import Definisi from "./pages/ulumulhadis/detail/Definisi"
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <section id="center">
-      <div className="hero">
-        <img src={heroImg} className="base" alt="" />
-      </div>
+    <BrowserRouter>
 
-      <h1>Get started</h1>
 
-      <button onClick={() => setCount(count + 1)}>
-        Count is {count}
-      </button>
-    </section>
+    <Routes>
+    <Route path='/' element={<Hadispage />} />
+    <Route path='/definisi' element={<Definisi />} />
+      </Routes>
+    </BrowserRouter>
+      
   )
 }
 
