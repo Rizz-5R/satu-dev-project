@@ -1,0 +1,381 @@
+{
+  "quran": {
+    "title": "Belajar Al-Qur'an",
+    "description": "Materi dasar memahami Al-Qur'an",
+    "modules": [
+      {
+        "id": "pengantar",
+        "slug": "pengantar",
+        "title": "Pengantar",
+        "items": [
+          {
+            "id": "definisi",
+            "title": "Definisi Al-Qur'an",
+            "content": [
+              "Al-Qur'an adalah kalam Allah SWT yang diturunkan kepada Nabi Muhammad SAW melalui perantara Malaikat Jibril sebagai petunjuk bagi seluruh umat manusia. Al-Qur'an menjadi kitab suci terakhir yang menyempurnakan kitab-kitab sebelumnya dan menjadi sumber utama ajaran Islam.",
+
+              "Secara bahasa, kata Al-Qur'an berasal dari bahasa Arab 'qara'a' yang berarti membaca atau bacaan. Penamaan ini menunjukkan bahwa Al-Qur'an adalah wahyu yang diperuntukkan untuk dibaca, dipahami, dihafalkan, dan diamalkan dalam kehidupan sehari-hari oleh seluruh umat Islam.",
+
+              "Secara istilah, para ulama mendefinisikan Al-Qur'an sebagai firman Allah SWT yang diturunkan kepada Nabi Muhammad SAW, disampaikan secara mutawatir (diriwayatkan oleh banyak orang sehingga tidak mungkin terjadi kesalahan), tertulis dalam mushaf, serta membacanya bernilai ibadah. Definisi ini menjadi pembeda antara Al-Qur'an dengan hadis Nabi, hadis qudsi, maupun kitab-kitab samawi sebelumnya.",
+
+              "Al-Qur'an diturunkan secara bertahap selama kurang lebih dua puluh tiga tahun. Proses turunnya wahyu berlangsung sesuai kondisi dan kebutuhan umat pada masa Rasulullah SAW. Hal ini menunjukkan bahwa Al-Qur'an tidak hanya menjadi kitab bacaan, tetapi juga menjadi pedoman yang hadir menjawab persoalan kehidupan manusia.",
+
+              "Sebagai sumber utama ajaran Islam, Al-Qur'an memuat berbagai pokok ajaran yang mencakup akidah, ibadah, akhlak, hukum, pendidikan, ekonomi, sejarah, serta hubungan sosial. Kandungan tersebut menjadikan Al-Qur'an tidak terbatas pada urusan ritual semata, tetapi juga mengatur kehidupan manusia secara menyeluruh.",
+
+              "Salah satu fungsi utama Al-Qur'an adalah sebagai petunjuk hidup (hudan). Al-Qur'an memberikan arahan kepada manusia mengenai cara menjalani kehidupan yang benar, membedakan antara yang hak dan yang batil, serta membantu manusia mencapai kebahagiaan di dunia dan akhirat.",
+
+              "Al-Qur'an juga memiliki fungsi sebagai pembeda (furqan), rahmat, pelajaran (mau'izhah), serta penyembuh bagi penyakit hati. Oleh karena itu, membaca dan memahami Al-Qur'an tidak hanya memberikan nilai ibadah, tetapi juga membantu membentuk karakter dan ketenangan jiwa seseorang.",
+
+              "Keistimewaan Al-Qur'an terletak pada keindahan bahasanya, kedalaman maknanya, serta terjaganya keaslian isi sejak pertama kali diturunkan hingga saat ini. Tidak ada kitab lain yang memiliki sistem penjagaan seperti Al-Qur'an melalui hafalan jutaan umat Islam di berbagai generasi.",
+
+              "Sebagai mukjizat terbesar Nabi Muhammad SAW, Al-Qur'an menjadi bukti kebenaran risalah Islam. Kandungannya terus dipelajari dan ditafsirkan oleh para ulama sepanjang zaman tanpa kehilangan relevansi terhadap perkembangan kehidupan manusia.",
+
+              "Dalam kajian Ulumul Qur'an, memahami definisi Al-Qur'an menjadi langkah awal yang sangat penting. Dari pemahaman tersebut, seseorang dapat melanjutkan pembelajaran menuju tema-tema lain seperti sejarah turunnya wahyu, pengumpulan mushaf, ilmu tafsir, qira'at, asbabun nuzul, nasikh-mansukh, dan berbagai cabang ilmu Al-Qur'an lainnya.",
+
+              "Mempelajari definisi Al-Qur'an diharapkan tidak berhenti pada pemahaman teoritis saja, tetapi juga menumbuhkan kesadaran bahwa Al-Qur'an merupakan pedoman hidup yang perlu dibaca, dipahami, dan diamalkan dalam kehidupan sehari-hari."
+            ]
+          },
+          {
+            "id": "nama",
+            "title": "Nama-Nama Al-Qur'an",
+            "content": [
+              "Al-Qur'an memiliki beberapa nama yang disebutkan di dalam ayat-ayatnya. Setiap nama menunjukkan fungsi, kedudukan, dan karakteristik Al-Qur'an sebagai petunjuk bagi manusia.",
+
+              "Nama yang paling dikenal adalah Al-Qur'an yang berarti bacaan atau sesuatu yang dibaca secara terus-menerus. Nama ini menunjukkan bahwa Al-Qur'an merupakan wahyu yang dibaca, dipelajari, dan diamalkan.",
+
+              "Selain itu terdapat nama Al-Kitab yang berarti kitab atau sesuatu yang tertulis. Nama ini menggambarkan bahwa wahyu Allah terjaga dan dihimpun dalam bentuk tulisan.",
+
+              "Al-Qur'an juga disebut Al-Furqan yang berarti pembeda antara kebenaran dan kebatilan. Melalui ajaran-ajarannya, manusia diberikan pedoman untuk menentukan jalan yang benar.",
+
+              "Nama lainnya adalah Adz-Dzikr yang bermakna peringatan atau pengingat bagi manusia agar selalu mengingat Allah dan menjalani kehidupan sesuai petunjuk-Nya.",
+
+              "Beberapa ayat juga menyebut Al-Qur'an sebagai An-Nur yang berarti cahaya karena memberikan penerangan dan petunjuk bagi kehidupan manusia.",
+
+              "Keberagaman nama tersebut menunjukkan bahwa Al-Qur'an bukan hanya kitab untuk dibaca, tetapi juga menjadi sumber petunjuk, pembelajaran, peringatan, dan rahmat bagi seluruh manusia."
+            ],
+
+            "nama_lain": [
+              {
+                "nama": "Al-Qur'an",
+                "arti": "Bacaan"
+              },
+              {
+                "nama": "Al-Kitab",
+                "arti": "Kitab yang tertulis"
+              },
+              {
+                "nama": "Al-Furqan",
+                "arti": "Pembeda antara benar dan salah"
+              },
+              {
+                "nama": "Adz-Dzikr",
+                "arti": "Peringatan"
+              },
+              {
+                "nama": "An-Nur",
+                "arti": "Cahaya"
+              },
+              {
+                "nama": "Al-Huda",
+                "arti": "Petunjuk"
+              }
+            ]
+          },
+          {
+            "id": "fungsi",
+            "title": "Fungsi dan Tujuan Diturunkannya Al-Qur'an",
+            "content": [
+              "Al-Qur'an diturunkan sebagai petunjuk (Al-Huda) bagi manusia agar mampu menjalani kehidupan sesuai dengan ajaran Allah SWT dan memperoleh kebahagiaan di dunia maupun akhirat.",
+
+              "Al-Qur'an berfungsi sebagai pembeda (Al-Furqan) antara yang benar dan yang salah sehingga menjadi dasar dalam menentukan sikap dan keputusan.",
+
+              "Al-Qur'an menjadi rahmat bagi seluruh manusia karena ajarannya membawa kebaikan, ketenangan, dan keseimbangan dalam kehidupan.",
+
+              "Al-Qur'an berperan sebagai peringatan (Adz-Dzikr) agar manusia selalu mengingat tujuan hidup, menjauhi kemaksiatan, dan mempersiapkan diri untuk kehidupan akhirat.",
+
+              "Al-Qur'an juga menjadi penyembuh (Asy-Syifa), terutama bagi hati dan jiwa melalui nilai-nilai keimanan, kesabaran, dan ketenangan yang terkandung di dalamnya.",
+
+              "Selain itu, Al-Qur'an menjadi sumber utama ajaran Islam yang mengatur aspek akidah, ibadah, akhlak, hukum, dan kehidupan sosial.",
+
+              "Al-Qur'an diturunkan sebagai sarana pendidikan yang membentuk karakter manusia agar menjadi pribadi yang berilmu, beriman, dan berakhlak mulia.",
+
+              "Sebagai mukjizat terbesar Nabi Muhammad SAW, Al-Qur'an juga menjadi bukti kebenaran risalah Islam yang tetap terjaga hingga sekarang."
+            ]
+          },
+          {
+            "id": "sejarah",
+            "title": "Sejarah Turunnya Al-Qur'an",
+            "content": [
+              "Al-Qur'an diturunkan oleh Allah SWT kepada Nabi Muhammad SAW melalui perantara Malaikat Jibril sebagai petunjuk bagi seluruh manusia.",
+
+              "Wahyu pertama turun ketika Nabi Muhammad SAW sedang beribadah dan bertafakur di Gua Hira. Ayat yang pertama kali diturunkan adalah QS Al-'Alaq ayat 1–5 yang berisi perintah membaca.",
+
+              "Turunnya Al-Qur'an tidak berlangsung sekaligus, tetapi secara bertahap selama kurang lebih 23 tahun, terdiri dari sekitar 13 tahun di Makkah dan 10 tahun di Madinah.",
+
+              "Periode Makkah banyak berisi penguatan akidah, keimanan, dan pembentukan karakter umat, sedangkan periode Madinah lebih banyak membahas aturan sosial, hukum, dan kehidupan bermasyarakat.",
+
+              "Turunnya Al-Qur'an secara bertahap bertujuan untuk menguatkan hati Nabi Muhammad SAW, memudahkan pemahaman umat, serta menjawab berbagai peristiwa yang terjadi pada masa itu.",
+
+              "Setiap ayat yang turun langsung dihafalkan oleh para sahabat dan sebagian dituliskan pada media yang tersedia seperti pelepah kurma, kulit, batu tipis, dan tulang.",
+
+              "Setelah Rasulullah SAW wafat, Al-Qur'an dikumpulkan menjadi mushaf pada masa Khalifah Abu Bakar Ash-Shiddiq dan kemudian disempurnakan standarisasinya pada masa Khalifah Utsman bin Affan."
+            ]
+          },
+          {
+            "id": "wahyu",
+            "title": "Proses Turunnya Wahyu",
+            "content": [
+              "Wahyu merupakan cara Allah SWT menyampaikan petunjuk kepada para nabi dan rasul. Al-Qur'an diturunkan kepada Nabi Muhammad SAW melalui perantara Malaikat Jibril.",
+
+              "Para ulama menjelaskan bahwa Al-Qur'an diturunkan dalam beberapa tahapan. Salah satu penjelasan yang banyak dikenal adalah bahwa Al-Qur'an diturunkan dari Lauhul Mahfuz ke Baitul 'Izzah di langit dunia, kemudian diturunkan secara bertahap kepada Nabi Muhammad SAW.",
+
+              "Penyampaian wahyu kepada Nabi Muhammad SAW berlangsung dalam berbagai bentuk sebagaimana dijelaskan dalam riwayat, seperti melalui suara yang kuat menyerupai dentingan, hadirnya Malaikat Jibril dalam bentuk manusia, maupun penyampaian langsung sesuai kehendak Allah SWT.",
+
+              "Ketika menerima wahyu, Nabi Muhammad SAW sering merasakan keadaan yang berat karena besarnya amanah yang diterima. Setelah menerima wahyu, beliau segera menghafalkan dan menyampaikan kepada para sahabat.",
+
+              "Para sahabat kemudian menghafal serta menuliskan ayat-ayat yang turun sehingga Al-Qur'an tetap terjaga keasliannya dari generasi ke generasi.",
+
+              "Turunnya wahyu secara bertahap menunjukkan kebijaksanaan Allah SWT dalam mendidik umat agar ajaran Islam dapat dipahami, dihayati, dan diamalkan secara bertahap."
+            ]
+          },
+          {
+            "id": "pengumpulan",
+            "title": "Pengumpulan dan Kodifikasi Mushaf Al-Qur'an",
+            "content": [
+              "Pada masa Nabi Muhammad SAW, Al-Qur'an belum dikumpulkan dalam satu mushaf lengkap seperti sekarang. Ayat-ayat yang turun dihafalkan oleh para sahabat dan dituliskan pada berbagai media seperti pelepah kurma, kulit, batu tipis, dan tulang.",
+
+              "Rasulullah SAW memiliki para penulis wahyu yang bertugas mencatat ayat setiap kali wahyu turun. Penempatan ayat dan urutan surah dilakukan berdasarkan petunjuk dari Rasulullah SAW.",
+
+              "Setelah wafatnya Nabi Muhammad SAW, terjadi Perang Yamamah yang menyebabkan banyak penghafal Al-Qur'an gugur. Karena itu, Khalifah Abu Bakar Ash-Shiddiq memerintahkan pengumpulan Al-Qur'an agar tetap terjaga.",
+
+              "Tugas pengumpulan diberikan kepada Zaid bin Tsabit. Proses ini dilakukan dengan sangat teliti melalui hafalan para sahabat dan catatan tertulis yang telah ada.",
+
+              "Pada masa Khalifah Utsman bin Affan, wilayah Islam semakin luas dan mulai muncul perbedaan cara membaca di berbagai daerah. Untuk menjaga persatuan, dilakukan standarisasi mushaf.",
+
+              "Mushaf standar kemudian disalin dan dikirim ke berbagai wilayah Islam. Mushaf tersebut dikenal dengan nama Mushaf Utsmani dan menjadi dasar penulisan Al-Qur'an yang digunakan hingga sekarang.",
+
+              "Proses pengumpulan dan kodifikasi ini menjadi salah satu bentuk penjagaan Allah SWT terhadap keaslian Al-Qur'an sehingga tetap terpelihara dari perubahan."
+            ]
+          },
+          {
+            "id": "keutamaan",
+            "title": "Keutamaan Mempelajari Al-Qur'an",
+            "content": [
+              "Mempelajari Al-Qur'an merupakan salah satu amalan yang memiliki kedudukan tinggi dalam Islam karena menjadi jalan untuk mengenal petunjuk Allah SWT dan memahami ajaran agama secara lebih mendalam.",
+
+              "Membaca dan mempelajari Al-Qur'an bernilai ibadah. Setiap huruf yang dibaca mendapatkan pahala sehingga mendorong umat Islam untuk terus berinteraksi dengan Al-Qur'an dalam kehidupan sehari-hari.",
+
+              "Al-Qur'an menjadi sumber ilmu dan petunjuk yang membantu manusia membentuk pola pikir, akhlak, serta perilaku yang baik dalam kehidupan pribadi maupun sosial.",
+
+              "Mempelajari Al-Qur'an juga memberikan ketenangan hati dan memperkuat hubungan seorang hamba dengan Allah SWT melalui pemahaman terhadap ayat-ayat-Nya.",
+
+              "Orang yang mempelajari dan mengajarkan Al-Qur'an mendapatkan kedudukan yang mulia karena turut menjaga serta menyebarkan ilmu kepada orang lain.",
+
+              "Selain dibaca, Al-Qur'an juga perlu dipahami dan diamalkan agar nilai-nilai yang terkandung di dalamnya dapat menjadi pedoman nyata dalam kehidupan.",
+
+              "Melalui pembelajaran Al-Qur'an, seseorang tidak hanya memperoleh pengetahuan agama, tetapi juga membangun karakter yang beriman, berakhlak, dan bertanggung jawab."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cabang",
+        "slug": "cabang",
+        "title": "Cabang Ilmu Ulumul Qur'an",
+        "items": [
+          {
+            "id": "tajwid",
+            "title": "Ilmu Tajwid",
+            "definisi": "Ilmu yang membahas tata cara membaca Al-Qur'an sesuai kaidah yang benar agar setiap huruf dibaca sesuai makhraj dan sifatnya.",
+            "contoh": "Mad, Ikhfa, Idgham, Iqlab, Qalqalah"
+          },
+          {
+            "id": "qiraat",
+            "title": "Ilmu Qira'at",
+            "definisi": "Ilmu yang mempelajari berbagai cara membaca Al-Qur'an yang sah dan bersumber dari Rasulullah SAW.",
+            "contoh": "Qira'at Hafs, Warsh, Qalun"
+          },
+          {
+            "id": "asbab_nuzul",
+            "title": "Asbabun Nuzul",
+            "definisi": "Ilmu yang membahas sebab dan latar belakang turunnya ayat Al-Qur'an.",
+            "contoh": "Turunnya QS Al-Mujadilah tentang pengaduan Khaulah"
+          },
+          {
+            "id": "makki_madani",
+            "title": "Makki dan Madani",
+            "definisi": "Ilmu yang mempelajari klasifikasi ayat atau surah berdasarkan waktu dan tempat turunnya.",
+            "contoh": "Al-An'am (Makkiyah), Al-Baqarah (Madaniyah)"
+          },
+          {
+            "id": "nasikh_mansukh",
+            "title": "Nasikh dan Mansukh",
+            "definisi": "Ilmu yang membahas ayat yang menghapus atau digantikan hukumnya oleh ayat lain.",
+            "contoh": "Tahapan pengharaman khamar"
+          },
+          {
+            "id": "munasabah",
+            "title": "Munasabah Al-Qur'an",
+            "definisi": "Ilmu yang mempelajari keterkaitan antar ayat maupun antar surah.",
+            "contoh": "Hubungan akhir Al-Fatihah dengan awal Al-Baqarah"
+          },
+          {
+            "id": "gharib_quran",
+            "title": "Gharibul Qur'an",
+            "definisi": "Ilmu yang membahas kata-kata dalam Al-Qur'an yang jarang digunakan atau sulit dipahami.",
+            "contoh": "Abba, Sijjin"
+          },
+          {
+            "id": "irob",
+            "title": "I'rab Al-Qur'an",
+            "definisi": "Ilmu yang membahas struktur gramatikal ayat Al-Qur'an.",
+            "contoh": "Rafa', Nashab, Jar"
+          },
+          {
+            "id": "balaghah",
+            "title": "Balaghah Al-Qur'an",
+            "definisi": "Ilmu yang mempelajari keindahan bahasa dan gaya penyampaian Al-Qur'an.",
+            "contoh": "Tasybih, Isti'arah, Kinayah"
+          },
+          {
+            "id": "amtsal_quran",
+            "title": "Amtsalul Qur'an",
+            "definisi": "Ilmu yang membahas perumpamaan dalam Al-Qur'an.",
+            "contoh": "Perumpamaan amal dalam QS Al-Baqarah"
+          },
+          {
+            "id": "aqsam_quran",
+            "title": "Aqsamul Qur'an",
+            "definisi": "Ilmu yang membahas sumpah-sumpah yang terdapat dalam Al-Qur'an.",
+            "contoh": "Wal-'Ashr, Wad-Dhuha"
+          },
+          {
+            "id": "wujuh_nazair",
+            "title": "Wujuh wa Nazhair",
+            "definisi": "Ilmu yang membahas satu kata dengan banyak makna atau beberapa kata dengan makna serupa.",
+            "contoh": "Kata 'ummah' dalam berbagai konteks"
+          },
+          {
+            "id": "rasm_utsmani",
+            "title": "Rasm Utsmani",
+            "definisi": "Ilmu yang mempelajari tata cara penulisan mushaf Al-Qur'an sesuai standar Mushaf Utsmani.",
+            "contoh": "Perbedaan penulisan beberapa kata dalam mushaf"
+          },
+          {
+            "id": "dabt_quran",
+            "title": "Dhabt Al-Qur'an",
+            "definisi": "Ilmu yang membahas tanda baca dan simbol dalam mushaf.",
+            "contoh": "Harakat, tanda waqaf"
+          },
+          {
+            "id": "waqaf_ibtida",
+            "title": "Waqaf dan Ibtida'",
+            "definisi": "Ilmu yang mempelajari tempat berhenti dan memulai bacaan Al-Qur'an.",
+            "contoh": "Waqaf Lazim, Waqaf Jaiz"
+          },
+          {
+            "id": "tafsir",
+            "title": "Ilmu Tafsir",
+            "definisi": "Ilmu yang membahas penjelasan dan penafsiran makna ayat Al-Qur'an.",
+            "contoh": "Tafsir Tahlili, Maudhu'i, Ijmali"
+          },
+          {
+            "id": "muhkam_mutasyabih",
+            "title": "Muhkam dan Mutasyabih",
+            "definisi": "Ilmu yang membahas ayat yang jelas maknanya dan ayat yang membutuhkan penjelasan lebih lanjut.",
+            "contoh": "Ayat hukum dan ayat sifat"
+          },
+          {
+            "id": "jamul_quran",
+            "title": "Jam'ul Qur'an",
+            "definisi": "Ilmu yang membahas sejarah pengumpulan dan kodifikasi Al-Qur'an.",
+            "contoh": "Masa Abu Bakar dan Utsman"
+          },
+          {
+            "id": "tarikh_nuzul",
+            "title": "Tarikh Nuzul",
+            "definisi": "Ilmu yang mempelajari kronologi turunnya ayat Al-Qur'an.",
+            "contoh": "Urutan wahyu pertama hingga terakhir"
+          },
+          {
+            "id": "fawatih_suwar",
+            "title": "Fawatihus Suwar",
+            "definisi": "Ilmu yang membahas pembukaan surah dalam Al-Qur'an.",
+            "contoh": "Alif Lam Mim, Ha Mim"
+          }
+        ]
+      },
+      {
+        "id": "tokoh",
+        "slug": "tokoh",
+        "title": "Tokoh Ulumul Qur'an",
+        "items": [
+          {
+            "id": "at-thabari",
+            "nama": "At-Thabari",
+            "ttl": "Tabar, Persia (Iran), 839 M – Baghdad, Irak, 923 M",
+            "bio": "Abu Ja'far Muhammad bin Jarir At-Thabari merupakan ulama besar dalam bidang tafsir, hadis, sejarah, dan fikih. Ia dikenal sebagai salah satu mufasir paling berpengaruh dalam sejarah Islam. Metode tafsirnya menggabungkan riwayat dari sahabat dan tabi'in dengan analisis bahasa serta pendapat ulama terdahulu.",
+            "kontribusi": ["Merintis metode tafsir bil ma'tsur secara sistematis", "Mengumpulkan riwayat tafsir dari generasi awal Islam", "Menjadi rujukan utama dalam kajian tafsir klasik"],
+            "karya": ["Jami' al-Bayan fi Ta'wil al-Qur'an (Tafsir At-Thabari)", "Tarikh al-Rusul wa al-Muluk"]
+          },
+          {
+            "id": "ibnu-katsir",
+            "nama": "Ibnu Katsir",
+            "ttl": "Damaskus, Suriah, 1301 M – 1373 M",
+            "bio": "Imaduddin Abu Al-Fida Ismail bin Umar Ibnu Katsir adalah ulama tafsir, hadis, dan sejarah dari abad pertengahan Islam. Tafsirnya terkenal karena menggunakan pendekatan Al-Qur'an dengan Al-Qur'an, hadis, serta penjelasan sahabat dan tabi'in.",
+            "kontribusi": ["Mengembangkan metode tafsir berbasis riwayat", "Menyusun tafsir yang mudah dipahami dan populer", "Memberi penekanan pada validitas hadis"],
+            "karya": ["Tafsir Al-Qur'an al-'Azhim (Tafsir Ibnu Katsir)", "Al-Bidayah wa an-Nihayah"]
+          },
+          {
+            "id": "as-suyuthi",
+            "nama": "Jalaluddin As-Suyuthi",
+            "ttl": "Kairo, Mesir, 1445 M – 1505 M",
+            "bio": "As-Suyuthi adalah ulama produktif yang menulis ratusan karya dalam berbagai disiplin ilmu Islam. Dalam Ulumul Qur'an, ia sangat dikenal melalui penyusunan cabang-cabang ilmu Al-Qur'an secara sistematis.",
+            "kontribusi": ["Menyusun klasifikasi ilmu-ilmu Al-Qur'an", "Menjadi rujukan utama dalam kajian Ulumul Qur'an", "Mengembangkan studi tafsir dan hadis"],
+            "karya": ["Al-Itqan fi Ulum al-Qur'an", "Tafsir Al-Jalalain"]
+          },
+          {
+            "id": "az-zarkasyi",
+            "nama": "Az-Zarkasyi",
+            "ttl": "Mesir, 1344 M – 1392 M",
+            "bio": "Badruddin Az-Zarkasyi merupakan ulama yang terkenal karena kontribusinya dalam menyusun konsep-konsep dasar Ulumul Qur'an secara ilmiah dan sistematis.",
+            "kontribusi": ["Menyusun pembahasan Ulumul Qur'an secara terstruktur", "Menjadi pelopor sistematisasi ilmu Al-Qur'an"],
+            "karya": ["Al-Burhan fi Ulum al-Qur'an"]
+          },
+          {
+            "id": "az-zarqani",
+            "nama": "Muhammad Abdul Azim Az-Zarqani",
+            "ttl": "Mesir, 1887 M – 1948 M",
+            "bio": "Ulama modern yang dikenal melalui pembahasan Ulumul Qur'an dengan pendekatan akademik dan sistematis sehingga banyak digunakan di perguruan tinggi Islam.",
+            "kontribusi": ["Memodernisasi pembelajaran Ulumul Qur'an", "Menghubungkan kajian klasik dan kontemporer"],
+            "karya": ["Manahil al-'Irfan fi Ulum al-Qur'an"]
+          },
+          {
+            "id": "manna-al-qaththan",
+            "nama": "Manna' Al-Qaththan",
+            "ttl": "Mesir, 1925 M – 1999 M",
+            "bio": "Tokoh kontemporer yang terkenal karena menyusun materi Ulumul Qur'an dengan bahasa yang lebih sederhana dan sistematis untuk pendidikan modern.",
+            "kontribusi": ["Menyederhanakan konsep Ulumul Qur'an", "Menjadi rujukan pendidikan Islam modern"],
+            "karya": ["Mabahits fi Ulum al-Qur'an"]
+          },
+          {
+            "id": "jalaluddin-al-mahalli",
+            "nama": "Jalaluddin Al-Mahalli",
+            "ttl": "Kairo, Mesir, 1389 M – 1459 M",
+            "bio": "Ulama tafsir yang memulai penulisan Tafsir Al-Jalalain sebelum kemudian diselesaikan oleh muridnya, Jalaluddin As-Suyuthi.",
+            "kontribusi": ["Menyusun salah satu tafsir paling populer di dunia Islam"],
+            "karya": ["Tafsir Al-Jalalain"]
+          },
+          {
+            "id": "abu-hayyan",
+            "nama": "Abu Hayyan Al-Andalusi",
+            "ttl": "Granada, Andalusia, 1256 M – Kairo, 1344 M",
+            "bio": "Ulama tafsir dan bahasa Arab yang terkenal dengan pendekatan linguistik dalam memahami Al-Qur'an.",
+            "kontribusi": ["Mengembangkan pendekatan kebahasaan dalam tafsir"],
+            "karya": ["Al-Bahr al-Muhith"]
+          }
+        ]
+      }
+    ]
+  }
+}
