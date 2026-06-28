@@ -62,7 +62,7 @@ export default function PengantarPage() {
           <div className="text-slate-500">{pengantar.items.length} Topik</div>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-5">
+        <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-5">
           {pengantar.items.map((item, index) => (
             <Link
               key={item.id}
@@ -134,7 +134,7 @@ export default function PengantarPage() {
                 </div>
 
                 {/* DESC */}
-                <p
+                {/* <p
                   className="
           text-white/70
           leading-7
@@ -144,7 +144,7 @@ export default function PengantarPage() {
         "
                 >
                   {item.content?.[0] ?? "Materi belum tersedia"}
-                </p>
+                </p> */}
 
                 {/* FOOTER */}
                 <div
