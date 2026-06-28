@@ -15,7 +15,6 @@ import Footer from "../../components/layout/Footer";
  function HomePage() {
   return (
     <div className="min-h-screen bg-white font-sans antialiased">
-      <Navbar />
 
       <main>
         <Hero />
@@ -40,7 +39,6 @@ import Footer from "../../components/layout/Footer";
         <CtaBanner />
       </main >
 
-      <Footer />
     </div>
   );
 }
