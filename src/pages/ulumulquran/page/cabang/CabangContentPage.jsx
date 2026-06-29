@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams, Link } from "react-router-dom";
-import data from "../../../../data/qurandb.json";
+import data from "../../../../data/quran/qurandb.json";
 
 export default function CabangContentPage() {
   const { id } = useParams();

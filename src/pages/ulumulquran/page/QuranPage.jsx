@@ -1,6 +1,6 @@
 
 import { Link } from "react-router-dom";
-import qurandb from "../../../data/qurandb.json";
+import qurandb from "../../../data/quran/qurandb.json";
 
 export default function QuranPage() {
   const datas = qurandb.quran?.modules ?? [];

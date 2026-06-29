@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import data from "../../../../data/qurandb.json";
+import data from "../../../../data/quran/qurandb.json";
 
 export default function PengantarPage() {
   const pengantar = data.quran.modules.find((m) => m.id === "pengantar");
