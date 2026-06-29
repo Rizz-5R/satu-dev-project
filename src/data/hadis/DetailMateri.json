@@ -1,35 +1,124 @@
 {
   "definisi": {
     "title": "Definisi Ulumul Hadis",
-    "tagline": "Pengertian Ulumul Hadis secara bahasa dan istilah.",
+    "tagline": "Pengertian Ulumul Hadis secara bahasa, istilah, dan kedudukannya dalam Islam.",
     "badgeColor": "bg-blue-50 text-blue-600 border-blue-100",
     "content": [
       {
         "subTitle": "Pengertian Bahasa",
-        "text": "Ulumul Hadis secara bahasa berarti ilmu-ilmu hadis..."
+        "text": "Ulumul Hadis secara bahasa terdiri dari dua kata, yaitu ulum (ilmu-ilmu) dan hadis (segala sesuatu yang bersumber dari Nabi Muhammad SAW berupa perkataan, perbuatan, taqrir, dan sifat)."
       },
       {
         "subTitle": "Pengertian Istilah",
-        "text": "Secara istilah, Ulumul Hadis adalah ilmu yang membahas..."
+        "text": "Ulumul Hadis adalah ilmu yang membahas kaidah-kaidah untuk mengetahui keadaan sanad, matan, dan perawi hadis."
+      },
+      {
+        "subTitle": "Perbedaan Hadis, Sunnah, Khabar, Atsar",
+        "text": "Hadis adalah segala sesuatu yang disandarkan kepada Nabi, sunnah adalah kebiasaan Nabi, khabar adalah berita secara umum, dan atsar adalah riwayat dari sahabat atau tabi'in."
+      },
+      {
+        "subTitle": "Fungsi Hadis",
+        "text": "Hadis berfungsi sebagai penjelas Al-Qur'an, penetap hukum, dan pedoman hidup umat Islam."
+      },
+      {
+        "subTitle": "Kedudukan Hadis",
+        "text": "Hadis merupakan sumber hukum Islam kedua setelah Al-Qur'an."
       }
     ]
   },
+
   "sejarah": {
     "title": "Sejarah Ulumul Hadis",
-    "tagline": "Perkembangan ilmu hadis sejak masa Nabi hingga menjadi disiplin ilmu mandiri.",
+    "tagline": "Perjalanan perkembangan hadis dari masa Nabi hingga masa kodifikasi.",
     "badgeColor": "bg-emerald-50 text-emerald-600 border-emerald-100",
     "content": [
       {
         "subTitle": "Masa Nabi",
-        "text": "Pada masa Nabi ﷺ, hadis dijaga melalui hafalan dan penulisan terbatas..."
+        "text": "Pada masa Nabi ﷺ, hadis disampaikan secara langsung kepada para sahabat melalui perkataan, perbuatan, dan persetujuan beliau."
       },
       {
         "subTitle": "Masa Sahabat",
-        "text": ""
+        "text": "Pada masa sahabat, hadis mulai disebarkan ke berbagai daerah melalui hafalan dan penyampaian langsung."
       },
       {
         "subTitle": "Masa Tabi'in",
-        "text": ""
+        "text": "Pada masa tabi'in, hadis mulai dikumpulkan dan ditulis lebih sistematis."
+      },
+      {
+        "subTitle": "Masa Kodifikasi",
+        "text": "Hadis mulai dibukukan secara resmi untuk menjaga keaslian dan memudahkan pembelajaran."
+      },
+      {
+        "subTitle": "Ulama Hadis Besar",
+        "text": "Muncul ulama besar seperti Imam Bukhari, Imam Muslim, Abu Dawud, Tirmidzi, Nasa'i, dan Ibnu Majah."
+      }
+    ]
+  },
+
+  "ruang-lingkup": {
+    "title": "Ruang Lingkup Ulumul Hadis",
+    "tagline": "Pembahasan utama dalam kajian Ulumul Hadis.",
+    "badgeColor": "bg-purple-50 text-purple-600 border-purple-100",
+    "content": [
+      {
+        "subTitle": "Sanad",
+        "text": "Sanad adalah rangkaian orang yang meriwayatkan hadis dari Nabi sampai kepada perawi terakhir."
+      },
+      {
+        "subTitle": "Matan",
+        "text": "Matan adalah isi atau teks hadis yang berisi ajaran Nabi."
+      },
+      {
+        "subTitle": "Rawi",
+        "text": "Rawi adalah orang yang meriwayatkan hadis."
+      },
+      {
+        "subTitle": "Cara Periwayatan",
+        "text": "Mempelajari bagaimana hadis disampaikan, baik melalui hafalan maupun tulisan."
+      },
+      {
+        "subTitle": "Penelitian Hadis",
+        "text": "Meneliti kualitas hadis apakah shahih, hasan, atau dhaif."
+      },
+      {
+        "subTitle": "Asbab Wurud Hadis",
+        "text": "Mempelajari sebab-sebab munculnya suatu hadis."
+      }
+    ]
+  },
+
+  "cabang-ilmu": {
+    "title": "Cabang-Cabang Ulumul Hadis",
+    "tagline": "Berbagai disiplin ilmu yang berkaitan dengan kajian hadis.",
+    "badgeColor": "bg-orange-50 text-orange-600 border-orange-100",
+    "content": [
+      {
+        "subTitle": "Ilmu Rijalul Hadis",
+        "text": "Ilmu yang membahas biografi para perawi hadis."
+      },
+      {
+        "subTitle": "Ilmu Jarh wa Ta'dil",
+        "text": "Ilmu untuk menilai keadilan dan kekuatan hafalan perawi."
+      },
+      {
+        "subTitle": "Ilmu Takhrij Hadis",
+        "text": "Ilmu untuk mencari sumber asli suatu hadis."
+      },
+      {
+        "subTitle": "Ilmu Asbab Wurud",
+        "text": "Ilmu yang membahas latar belakang munculnya hadis."
+      },
+      {
+        "subTitle": "Ilmu Gharibul Hadis",
+        "text": "Ilmu yang menjelaskan kata-kata sulit dalam hadis."
+      },
+      {
+        "subTitle": "Ilmu Mukhtalif al-Hadis",
+        "text": "Ilmu yang membahas hadis-hadis yang tampak bertentangan."
+      },
+      {
+        "subTitle": "Ilmu Musthalah Hadis",
+        "text": "Ilmu yang membahas istilah-istilah dalam ilmu hadis."
       }
     ]
   }
