@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import ChevronRight from "../section/ChevronRight";
+import ChevronRight from "./ChevronRight";
 
 export default function CategoryCards() {
   const cards = [

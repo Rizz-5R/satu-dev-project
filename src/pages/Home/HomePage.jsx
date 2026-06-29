@@ -1,6 +1,6 @@
 import Navbar from "../../components/layout/Navbar";
-import Hero from "../../components/section/Hero";
-import CategoryCard from "../../components/cards/CategoryCard";
+import Hero from "../../components/cardhome/Hero";
+import CategoryCard from "../../components/cardhome/CategoryCard";
 
 import Footer from "../../components/layout/Footer";
 

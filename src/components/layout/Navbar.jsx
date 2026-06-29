@@ -1,5 +1,5 @@
 import { useState } from "react";
-import SearchIcon from "../section/Icons";
+import SearchIcon from "../cardhome/Icons";
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);

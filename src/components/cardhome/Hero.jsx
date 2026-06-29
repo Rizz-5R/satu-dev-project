@@ -1,4 +1,4 @@
-import SearchIcon from "../section/Icons";
+import SearchIcon from "./Icons";
 
 export default function Hero() {
 
