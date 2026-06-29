@@ -35,7 +35,7 @@ function App() {
         <Route path="quran/tokoh" element={<TokohPage />} />
         <Route path="quran/tokoh/:id" element={<TokohContentPage />} />
         {/* Quiz */}
-        <Route path="/quizpage" element={<QuizPageq />} />
+        <Route path="/quizpage" element={<QuizPage />} />
       </Routes>
       <Footer />
     </BrowserRouter>
