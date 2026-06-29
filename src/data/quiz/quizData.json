@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "title": "Quiz Studi Al-Qur'an & Hadis",
+    "description": "Uji pemahamanmu tentang Ulumul Qur'an dan Ilmu Hadis",
+    "totalLevels": 3,
+    "questionsPerLevel": 3
+  },
+  "level1": [
+    {
+      "id": 1,
+      "question": "Apa yang dimaksud dengan 'Ulumul Qur'an'?",
+      "options": [
+        "Ilmu yang hanya membahas tentang sejarah turunnya Al-Qur'an",
+        "Sejumlah ilmu yang berhubungan dengan Al-Qur'an dari berbagai aspek",
+        "Ilmu tentang cara membaca Al-Qur'an dengan tartil",
+        "Ilmu yang membahas terjemahan Al-Qur'an ke berbagai bahasa"
+      ],
+      "answer": 1,
+      "explanation": "Ulumul Qur'an (علوم القرآن) adalah kumpulan ilmu yang membahas Al-Qur'an dari berbagai aspek, meliputi sejarah turun, penulisan, pengumpulan, qira'at, tafsir, i'jaz, nasikh-mansukh, dan berbagai dimensi lainnya."
+    },
+    {
+      "id": 2,
+      "question": "Siapakah ulama yang menulis kitab 'Al-Itqan fi Ulumil Qur'an', sebuah ensiklopedi penting dalam ilmu Al-Qur'an?",
+      "options": [
+        "Imam Al-Bukhari",
+        "Imam Al-Nawawi",
+        "Imam Jalaluddin Al-Suyuthi",
+        "Imam Ibn Kathir"
+      ],
+      "answer": 2,
+      "explanation": "Al-Itqan fi Ulumil Qur'an ditulis oleh Imam Jalaluddin Al-Suyuthi (w. 911 H). Kitab ini adalah ensiklopedi Ulumul Qur'an yang membahas lebih dari 80 jenis ilmu yang berkaitan dengan Al-Qur'an, menjadikannya salah satu referensi terlengkap dalam bidang ini."
+    },
+    {
+      "id": 3,
+      "question": "Metode tafsir yang mengumpulkan seluruh ayat Al-Qur'an yang berbicara tentang satu tema untuk dikaji secara komprehensif disebut metode...",
+      "options": [
+        "Tafsir Tahlili",
+        "Tafsir Ijmali",
+        "Tafsir Muqaran",
+        "Tafsir Maudhu'i"
+      ],
+      "answer": 3,
+      "explanation": "Tafsir Maudhu'i (تفسير موضوعي) adalah metode tafsir tematik yang mengumpulkan seluruh ayat yang berkaitan dengan satu tema tertentu, kemudian menafsirkannya secara terpadu. Metode ini memudahkan pemahaman pandangan Al-Qur'an secara menyeluruh terhadap suatu topik."
+    }
+  ],
+  "level2": [
+    {
+      "id": 4,
+      "question": "Dalam ilmu hadis, istilah 'sanad' merujuk pada...",
+      "options": [
+        "Teks isi dari sebuah hadis",
+        "Rantai perawi yang meriwayatkan sebuah hadis",
+        "Hukum yang terkandung dalam hadis",
+        "Kitab yang memuat kumpulan hadis"
+      ],
+      "answer": 1,
+      "explanation": "Sanad (سند) adalah rantai para perawi yang menyambungkan periwayatan hadis dari sumber pertama (Rasulullah ﷺ) hingga pembuku hadis. Kualitas sanad menjadi salah satu tolak ukur utama dalam menentukan keaslian sebuah hadis."
+    },
+    {
+      "id": 5,
+      "question": "Hadis yang diriwayatkan oleh banyak perawi di setiap tingkatan sanad sehingga mustahil terjadi kesepakatan untuk berdusta disebut hadis...",
+      "options": [
+        "Hadis Shahih",
+        "Hadis Hasan",
+        "Hadis Mutawatir",
+        "Hadis Ahad"
+      ],
+      "answer": 2,
+      "explanation": "Hadis Mutawatir adalah hadis yang diriwayatkan oleh sejumlah besar perawi di setiap lapisan sanadnya, sehingga secara logika mustahil mereka semua bersepakat untuk berdusta. Hadis ini menghasilkan keyakinan yang pasti (qath'i) dan merupakan tingkatan tertinggi dari segi kekuatan periwayatan."
+    },
+    {
+      "id": 6,
+      "question": "Ilmu yang membahas tentang penilaian cacat (jarh) dan keadilan (ta'dil) para perawi hadis dikenal sebagai...",
+      "options": [
+        "Ilmu Rijalul Hadis",
+        "Ilmu Jarh wa Ta'dil",
+        "Ilmu Musthalah Hadis",
+        "Ilmu Gharibul Hadis"
+      ],
+      "answer": 1,
+      "explanation": "Ilmu Jarh wa Ta'dil (علم الجرح والتعديل) adalah cabang ilmu hadis yang mengkaji kredibilitas para perawi. 'Jarh' berarti mencela seorang perawi karena sebab tertentu yang merusak keadilannya, sedangkan 'Ta'dil' berarti menilai seorang perawi sebagai adil dan terpercaya."
+    }
+  ],
+  "level3": [
+    {
+      "id": 7,
+      "question": "Kitab hadis yang termasuk dalam 'Kutub al-Sittah' (Enam Kitab Hadis Utama) adalah...",
+      "options": [
+        "Shahih Al-Bukhari, Shahih Muslim, Sunan Abu Dawud, Sunan Al-Tirmidzi, Sunan Al-Nasa'i, Sunan Ibn Majah",
+        "Shahih Al-Bukhari, Shahih Muslim, Muwatha' Imam Malik, Musnad Ahmad, Sunan Al-Darimi, Shahih Ibn Hibban",
+        "Shahih Al-Bukhari, Shahih Muslim, Sunan Abu Dawud, Sunan Al-Tirmidzi, Musnad Ahmad, Muwatha' Imam Malik",
+        "Shahih Al-Bukhari, Shahih Muslim, Sunan Al-Nasa'i, Sunan Ibn Majah, Al-Mustadrak, Sunan Al-Baihaqi"
+      ],
+      "answer": 0,
+      "explanation": "Kutub al-Sittah adalah enam kitab hadis paling otoritatif, yaitu: Shahih Al-Bukhari, Shahih Muslim, Sunan Abu Dawud, Sunan Al-Tirmidzi (Jami' Al-Tirmidzi), Sunan Al-Nasa'i, dan Sunan Ibn Majah. Keenam kitab ini menjadi rujukan utama para ulama dalam kajian hadis."
+    },
+    {
+      "id": 8,
+      "question": "Kritik terhadap teks isi hadis (bukan sanadnya) untuk menilai keabsahannya disebut...",
+      "options": [
+        "Kritik Sanad",
+        "Kritik Matan",
+        "Kritik Rawi",
+        "Kritik Isnad"
+      ],
+      "answer": 1,
+      "explanation": "Kritik Matan (نقد المتن) adalah metode analisis terhadap teks isi hadis untuk memastikan ia tidak bertentangan dengan Al-Qur'an, hadis yang lebih kuat, akal sehat, atau fakta sejarah. Kritik matan melengkapi kritik sanad dalam menentukan keaslian sebuah hadis."
+    },
+    {
+      "id": 9,
+      "question": "Imam Al-Bukhari dikenal karena ketegasan seleksinya terhadap hadis. Berapa jumlah hadis yang beliau seleksi dari sekitar 600.000 hadis untuk dimuat dalam Shahih-nya?",
+      "options": [
+        "Sekitar 2.000 hadis",
+        "Sekitar 4.000 hadis",
+        "Sekitar 7.563 hadis (dengan pengulangan) atau 2.602 tanpa pengulangan",
+        "Sekitar 15.000 hadis"
+      ],
+      "answer": 2,
+      "explanation": "Dari sekitar 600.000 hadis yang beliau hafal, Imam Al-Bukhari hanya memasukkan sekitar 7.563 hadis (dengan pengulangan) atau sekitar 2.602 hadis tanpa pengulangan ke dalam Shahih-nya. Seleksi yang sangat ketat ini menjadikan Shahih Al-Bukhari sebagai kitab hadis paling shahih setelah Al-Qur'an menurut mayoritas ulama."
+    }
+  ]
+}

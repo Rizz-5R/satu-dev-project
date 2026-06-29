@@ -80,9 +80,6 @@ export default function Footer() {
             © 2026 IlmuQur'an. Hak cipta dilindungi.
           </p>
 
-          <p className="text-xs">
-            Dibuat dengan ❤️ untuk para penuntut ilmu
-          </p>
         </div>
       </div>
     </footer>
