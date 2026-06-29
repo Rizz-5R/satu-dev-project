@@ -1,0 +1,46 @@
+[
+  {
+    "id": "01",
+    "title": "Definisi Ulumul Hadis",
+    "desc": "Pengertian Ulumul Hadis secara bahasa dan istilah, serta kedudukannya dalam ilmu Islam.",
+    "link": "/materi/definisi",
+    "iconName": "BookOpen",
+    "iconColor": "text-blue-600",
+    "iconBg": "bg-blue-50",
+    "numBg": "bg-blue-50 text-blue-600",
+    "lineColor": "bg-blue-600"
+  },
+  {
+    "id": "02",
+    "title": "Sejarah Ulumul Hadis",
+    "desc": "Perkembangan ilmu hadis sejak masa Nabi hingga menjadi disiplin ilmu yang mandiri.",
+    "link": "/materi/sejarah",
+    "iconName": "Calendar",
+    "iconColor": "text-emerald-600",
+    "iconBg": "bg-emerald-50",
+    "numBg": "bg-emerald-50 text-emerald-600",
+    "lineColor": "bg-emerald-600"
+  },
+  {
+    "id": "03",
+    "title": "Ruang Lingkup",
+    "desc": "Hal-hal yang dibahas dalam Ulumul Hadis mencakup hadis, sanad, matan, dan kaidah penilaiannya.",
+    "link": "/materi/ruang-lingkup",
+    "iconName": "Globe",
+    "iconColor": "text-purple-600",
+    "iconBg": "bg-purple-50",
+    "numBg": "bg-purple-50 text-purple-600",
+    "lineColor": "bg-purple-600"
+  },
+  {
+    "id": "04",
+    "title": "Cabang Ilmu",
+    "desc": "Cabang-cabang ilmu yang berkaitan dengan kajian hadis dan metodologinya.",
+    "link": "/materi/cabang-ilmu",
+    "iconName": "Share2",
+    "iconColor": "text-orange-600",
+    "iconBg": "bg-orange-50",
+    "numBg": "bg-orange-50 text-orange-600",
+    "lineColor": "bg-orange-600"
+  }
+]

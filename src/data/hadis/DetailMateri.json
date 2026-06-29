@@ -1,0 +1,36 @@
+{
+  "definisi": {
+    "title": "Definisi Ulumul Hadis",
+    "tagline": "Pengertian Ulumul Hadis secara bahasa dan istilah.",
+    "badgeColor": "bg-blue-50 text-blue-600 border-blue-100",
+    "content": [
+      {
+        "subTitle": "Pengertian Bahasa",
+        "text": "Ulumul Hadis secara bahasa berarti ilmu-ilmu hadis..."
+      },
+      {
+        "subTitle": "Pengertian Istilah",
+        "text": "Secara istilah, Ulumul Hadis adalah ilmu yang membahas..."
+      }
+    ]
+  },
+  "sejarah": {
+    "title": "Sejarah Ulumul Hadis",
+    "tagline": "Perkembangan ilmu hadis sejak masa Nabi hingga menjadi disiplin ilmu mandiri.",
+    "badgeColor": "bg-emerald-50 text-emerald-600 border-emerald-100",
+    "content": [
+      {
+        "subTitle": "Masa Nabi",
+        "text": "Pada masa Nabi ﷺ, hadis dijaga melalui hafalan dan penulisan terbatas..."
+      },
+      {
+        "subTitle": "Masa Sahabat",
+        "text": ""
+      },
+      {
+        "subTitle": "Masa Tabi'in",
+        "text": ""
+      }
+    ]
+  }
+}
