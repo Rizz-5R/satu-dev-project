@@ -14,19 +14,17 @@ export default function Navbar() {
               className="w-9 h-9 rounded-lg flex items-center justify-center"
               style={{ background: "linear-gradient(135deg, #1B4D3E, #2D6A4F)" }}
             >
-              <span className="text-white font-bold text-sm">IQ</span>
+              <span className="text-white font-bold text-sm">SQH</span>
             </div>
             <div className="leading-tight">
-              <p className="font-bold text-gray-900 text-sm">IlmuQur'an</p>
-              <p className="text-gray-400 text-[10px]">
-                Belajar, Pahami, Amalkan.
-              </p>
+              <p className="font-bold text-gray-900 text-sm">SUQURA</p>
+              
             </div>
           </div>
 
           {/* Nav Links - desktop */}
           <div className="hidden md:flex items-center gap-6 text-sm font-medium text-gray-600">
-            {["Beranda", "Belajar", "Jelajahi", "Timeline", "Quiz"].map(
+            {["Beranda", "Belajar", "Jelajahi", "Quiz", "About"].map(
               (item, i) => (
                 <button
                   key={item}
@@ -59,18 +57,14 @@ export default function Navbar() {
           <div className="hidden md:flex items-center gap-3">
             <div className="flex items-center gap-2 bg-gray-50 border border-gray-200 rounded-full px-3 py-1.5 text-sm text-gray-400 w-48">
               <SearchIcon />
-              <span>Cari tokoh, kitab, materi…</span>
+              <span>Cari materi, tokoh...</span>
             </div>
-
-            <button className="text-sm font-medium text-gray-700 hover:text-green-800 transition-colors px-3 py-1.5">
-              Masuk
-            </button>
 
             <button
               className="text-sm font-semibold text-white px-4 py-1.5 rounded-full transition-opacity hover:opacity-90"
               style={{ background: "#1B4D3E" }}
             >
-              Daftar
+              Login
             </button>
           </div>
 
@@ -108,15 +102,11 @@ export default function Navbar() {
           ))}
 
           <div className="flex gap-2 pt-2">
-            <button className="flex-1 border border-green-800 text-green-800 rounded-full py-1.5 text-sm font-semibold">
-              Masuk
-            </button>
-
             <button
               className="flex-1 text-white rounded-full py-1.5 text-sm font-semibold"
               style={{ background: "#1B4D3E" }}
             >
-              Daftar
+              Login
             </button>
           </div>
         </div>

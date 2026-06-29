@@ -21,11 +21,20 @@ export default function CategoryCards() {
       accent: "#4A9EBF",
       icon: "ح",
     },
+    {
+      title: "Quiz",
+      to: "quizpage",
+      subtitle: "10 Materi  •  10 Tokoh  •  10 Kitab",
+      desc: "Uji pengetahuanmu tentang Al-Qur'an dan Hadis.",
+      bg: "#5A3E2B",
+      accent: "#4A9EBF",
+      icon: "ح",
+    },
   ];
 
   return (
     <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-6 relative z-10">
-      <div className="grid md:grid-cols-2 gap-5">
+      <div className="grid md:grid-cols-3 gap-5">
         {cards.map((card) => (
           <div key={card.title} className="rounded-2xl p-6 text-white relative overflow-hidden group cursor-pointer hover:scale-[1.01] transition-transform duration-200 shadow-lg" style={{ background: card.bg }}>
             {/* Background glow */}
