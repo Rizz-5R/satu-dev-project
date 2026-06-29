@@ -33,7 +33,7 @@ export default function CategoryCards() {
   ];
 
   return (
-    <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-6 relative z-10">
+    <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 -mt-6 mb-40 relative z-10">
       <div className="grid md:grid-cols-3 gap-5">
         {cards.map((card) => (
           <div key={card.title} className="rounded-2xl p-6 text-white relative overflow-hidden group cursor-pointer hover:scale-[1.01] transition-transform duration-200 shadow-lg" style={{ background: card.bg }}>

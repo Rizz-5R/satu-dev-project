@@ -82,17 +82,11 @@ export default function Hero() {
                 }}
               >
                 <div className="absolute -left-12 top-10 bg-white rounded-xl p-3 shadow-xl text-center min-w-22.5">
-                  <p className="text-xl font-bold text-green-800">50+</p>
-                  <p className="text-[10px] text-gray-500 mt-0.5">
-                    Kitab Hadis
-                  </p>
+                  <p className="text-xl font-bold text-green-800">ULUMUL QUR'AN</p>
                 </div>
 
                 <div className="absolute -right-12 top-20 bg-white rounded-xl p-3 shadow-xl text-center min-w-[90px]">
-                  <p className="text-xl font-bold text-green-800">200+</p>
-                  <p className="text-[10px] text-gray-500 mt-0.5">
-                    Tokoh Ulama
-                  </p>
+                  <p className="text-xl font-bold text-green-800">ULUMUL HADIS</p>
                 </div>
 
                 <div className="absolute -left-8 bottom-16 bg-white rounded-xl p-3 shadow-xl text-center min-w-[90px]">
@@ -100,10 +94,7 @@ export default function Hero() {
                     className="text-xl font-bold"
                     style={{ color: "#D4A853" }}
                   >
-                    1.2K+
-                  </p>
-                  <p className="text-[10px] text-gray-500 mt-0.5">
-                    Materi Belajar
+                   QUIZ
                   </p>
                 </div>
 
