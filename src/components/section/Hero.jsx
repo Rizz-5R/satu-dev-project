@@ -1,13 +1,6 @@
 import SearchIcon from "../section/Icons";
 
 export default function Hero() {
-  const tags = [
-    "Al-Tabari",
-    "Tafsir",
-    "Sahih Bukhari",
-    "Ulumul Hadis",
-    "Nuzulul Qur'an",
-  ];
 
   return (
     <section
@@ -45,16 +38,16 @@ export default function Hero() {
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-5">
-              Belajar Studi
+              SUQURA
               <br />
-              <span style={{ color: "#D4A853" }}>Al-Qur'an</span>{" "}
+              <span style={{ color: "#D4A853" }}>Studi Al-Qur'an</span>{" "}
               <span className="text-white/80">&</span>{" "}
               <span style={{ color: "#D4A853" }}>Hadis</span>
             </h1>
 
             <p className="text-white/70 text-base md:text-lg leading-relaxed mb-8 max-w-md">
-              Pelajari ilmu Al-Qur'an dan Hadis secara sistematis,
-              terstruktur, dan interaktif bersama para ulama terpercaya.
+              Media Pembelajaran Ilmu Al-Qur'an dan Hadis secara sistematis,
+              terstruktur, dan interaktif berdasarkan kurikulum yang telah disusun oleh para pakar dan ulama.
             </p>
 
             {/* Search Bar */}
@@ -74,21 +67,9 @@ export default function Hero() {
                 Cari
               </button>
             </div>
+      </div>
 
-            {/* Popular Tags */}
-            <div className="flex items-center gap-2 flex-wrap">
-              <span className="text-white/50 text-xs">Populer:</span>
-
-              {tags.map((tag) => (
-                <button
-                  key={tag}
-                  className="text-xs bg-white/10 hover:bg-white/20 transition-colors border border-white/20 text-white/80 rounded-full px-3 py-1"
-                >
-                  {tag}
-                </button>
-              ))}
-            </div>
-          </div>
+            
 
           {/* Right: Illustration placeholder */}
           <div className="hidden md:flex justify-center items-center">
@@ -101,17 +82,11 @@ export default function Hero() {
                 }}
               >
                 <div className="absolute -left-12 top-10 bg-white rounded-xl p-3 shadow-xl text-center min-w-22.5">
-                  <p className="text-xl font-bold text-green-800">50+</p>
-                  <p className="text-[10px] text-gray-500 mt-0.5">
-                    Kitab Hadis
-                  </p>
+                  <p className="text-xl font-bold text-green-800">ULUMUL QUR'AN</p>
                 </div>
 
                 <div className="absolute -right-12 top-20 bg-white rounded-xl p-3 shadow-xl text-center min-w-[90px]">
-                  <p className="text-xl font-bold text-green-800">200+</p>
-                  <p className="text-[10px] text-gray-500 mt-0.5">
-                    Tokoh Ulama
-                  </p>
+                  <p className="text-xl font-bold text-green-800">ULUMUL HADIS</p>
                 </div>
 
                 <div className="absolute -left-8 bottom-16 bg-white rounded-xl p-3 shadow-xl text-center min-w-[90px]">
@@ -119,10 +94,7 @@ export default function Hero() {
                     className="text-xl font-bold"
                     style={{ color: "#D4A853" }}
                   >
-                    1.2K+
-                  </p>
-                  <p className="text-[10px] text-gray-500 mt-0.5">
-                    Materi Belajar
+                   QUIZ
                   </p>
                 </div>
 
@@ -138,7 +110,7 @@ export default function Hero() {
                       className="text-white text-3xl font-bold"
                       style={{ fontFamily: "serif" }}
                     >
-                      ق
+                    SQH
                     </span>
                   </div>
 

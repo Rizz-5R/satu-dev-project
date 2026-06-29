@@ -12,6 +12,7 @@ import CabangContentPage from "./pages/ulumulquran/page/cabang/CabangContentPage
 import TokohPage from "./pages/ulumulquran/page/tokoh/TokohPage";
 import TokohContentPage from "./pages/ulumulquran/page/tokoh/TokohContentPage";
 import WelcomePage from "./pages/ulumulquran/WelocomePage";
+import QuizPage from "./pages/quiz/QuizPage";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 
@@ -33,6 +34,8 @@ function App() {
         <Route path="/quran/cabang/:id" element={<CabangContentPage />} />
         <Route path="quran/tokoh" element={<TokohPage />} />
         <Route path="quran/tokoh/:id" element={<TokohContentPage />} />
+        {/* Quiz Page */}
+        <Route path="/quizpage" element={<QuizPage />} />
       </Routes>
       <Footer />
     </BrowserRouter>
