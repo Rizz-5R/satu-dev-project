@@ -28,7 +28,7 @@ export default function CategoryCards() {
       desc: "Uji pengetahuanmu tentang Al-Qur'an dan Hadis.",
       bg: "#5A3E2B",
       accent: "#4A9EBF",
-      icon: "ح",
+      icon: "Q",
     },
   ];
 
