@@ -1,27 +1,10 @@
-import { useEffect, useState, useRef } from "react";
+import { useEffect, useState } from "react";
 import { MateriHero } from "../../../components/hadis/MateriHero";
 import { MateriCards } from "../../../components/hadis/MateriCard";
 import { InfoBanner } from "../../../components/hadis/InfoBanner";
 
-function useScrollAnimation() {
-  const ref = useRef(null);
-  const [visible, setVisible] = useState(false);
-
-  useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => { if (entry.isIntersecting) setVisible(true); },
-      { threshold: 0.1 }
-    );
-    if (ref.current) observer.observe(ref.current);
-    return () => observer.disconnect();
-  }, []);
-
-  return { ref, visible };
-}
-
 export function Materihadis() {
   const [animate, setAnimate] = useState(false);
-  const { ref: sectionRef, visible: sectionVisible } = useScrollAnimation();
 
   useEffect(() => {
     const timer = setTimeout(() => setAnimate(true), 50);
@@ -42,8 +25,7 @@ export function Materihadis() {
           hiddenState={hiddenState}
         />
         <MateriCards
-          sectionRef={sectionRef}
-          sectionVisible={sectionVisible}
+          sectionVisible={true}
         />
         <InfoBanner
           animate={animate}

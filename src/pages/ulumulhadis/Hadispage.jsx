@@ -1,10 +1,12 @@
 import { BookOpen } from "lucide-react";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-
+import { BacktoHome } from "../../components/hadis/BacktoHome"
 import { OrnamenBackground } from "../../components/hadis/OrnamenBackground";
 import { SelamatDatang } from "../../components/hadis/SelamatDatang";
 import { HadisButtons } from "../../components/hadis/HadisButtons";
+import  hadisData from "../../data/hadis/hadisdb.json"
+
 
 export function Hadispage() {
   const { id } = useParams();
@@ -84,9 +86,10 @@ export function Hadispage() {
           visibleState={visibleState}
           hiddenState={hiddenState}
         />
+        <div className={`${baseTransition} delay-[900ms] ${animate ? visibleState : hiddenState} mt-6`}>
+          <BacktoHome />
+        </div>
       </main>
-
-      {/* Dekorasi bawah */}
       <div className="w-full max-w-7xl mx-auto px-6 md:px-12 pb-8 flex justify-between items-end relative z-20 pointer-events-none">
         <div
           className={`transition-all duration-1000 delay-[1000ms] ease-out ${animate ? "opacity-70 scale-100" : "opacity-0 scale-75"} mb-4 mx-auto sm:mx-0 text-[#B88E2F] text-xl`}
