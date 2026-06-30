@@ -4,18 +4,18 @@ import ChevronRight from "./ChevronRight";
 export default function CategoryCards() {
   const cards = [
     {
-      title: "Al-Qur'an",
+      title: "Ulumul Qur'an",
       to: "quranpage",
-      subtitle: "10 Materi  •  10 Tokoh  •  10 Kitab",
+      subtitle: "Definisi, Cabang Ilmu, Tokoh Mufassir",
       desc: "Pelajari sejarah, ilmu, tafsir, tokoh dan kitab terkait Al-Qur'an.",
       bg: "#1B4D3E",
       accent: "#D4A853",
       icon: "ق",
     },
     {
-      title: "Hadis",
+      title: "Ulumul Hadis",
       to: "hadispage",
-      subtitle: "10 Materi  •  10 Tokoh  •  10 Kitab",
+      subtitle: "Definisi, Sejarah, Cabang Ilmu",
       desc: "Pelajari ulumul hadis, riwayah, dirayah, kritik hadis dan lainnya.",
       bg: "#162D40",
       accent: "#4A9EBF",
@@ -24,7 +24,7 @@ export default function CategoryCards() {
     {
       title: "Quiz",
       to: "quizpage",
-      subtitle: "10 Materi  •  10 Tokoh  •  10 Kitab",
+      subtitle: "Selesaikan level quiz untuk menguji pengetahuanmu.",
       desc: "Uji pengetahuanmu tentang Al-Qur'an dan Hadis.",
       bg: "#5A3E2B",
       accent: "#4A9EBF",
