@@ -50,23 +50,6 @@ export default function Hero() {
               terstruktur, dan interaktif berdasarkan kurikulum yang telah disusun oleh para pakar dan ulama.
             </p>
 
-            {/* Search Bar */}
-            <div className="flex items-center gap-2 bg-white rounded-xl px-4 py-3 shadow-lg mb-4 max-w-md">
-              <SearchIcon />
-
-              <input
-                type="text"
-                placeholder="Cari tokoh, kitab, materi, metode…"
-                className="flex-1 text-sm text-gray-700 placeholder-gray-400 outline-none bg-transparent"
-              />
-
-              <button
-                className="text-white text-xs font-semibold px-3 py-1.5 rounded-lg"
-                style={{ background: "#1B4D3E" }}
-              >
-                Cari
-              </button>
-            </div>
       </div>
 
             

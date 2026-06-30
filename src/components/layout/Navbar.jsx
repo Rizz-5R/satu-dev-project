@@ -74,23 +74,15 @@ export default function Navbar() {
       {/* Mobile menu */}
       {mobileOpen && (
         <div className="md:hidden border-t border-gray-100 bg-white px-4 py-4 flex flex-col gap-3 text-sm font-medium text-gray-700">
-          {["Beranda", "Belajar", "Quiz", "About"].map((item) => (
-            <button
-              key={item}
+          {navItems.map((item) => (
+            <NavLink
+              key={item.name}
+              to={item.path}
               className="text-left hover:text-green-800"
             >
-              {item}
-            </button>
+              {item.name}
+            </NavLink>
           ))}
-
-          <div className="flex gap-2 pt-2">
-            <button
-              className="flex-1 text-white rounded-full py-1.5 text-sm font-semibold"
-              style={{ background: "#1B4D3E" }}
-            >
-              Login
-            </button>
-          </div>
         </div>
       )}
     </nav>
