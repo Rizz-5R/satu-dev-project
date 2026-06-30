@@ -6,7 +6,7 @@ export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const navItems = [
   { name: "Beranda", path: "/" },
-  { name: "Qur'an", path: "/quran" },
+  { name: "Qur'an", path: "/quranpage" },
   { name: "Hadis", path: "/hadispage" },
   { name: "Quiz", path: "/quizpage"},
   { name: "About", path: "/aboutpage" },
