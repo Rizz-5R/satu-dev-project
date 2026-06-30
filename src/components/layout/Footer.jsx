@@ -13,12 +13,12 @@ export default function Footer() {
                 }}
               >
                 <span className="text-white font-bold text-xs">
-                  IQ
+                  SQH
                 </span>
               </div>
 
               <span className="font-bold text-white text-sm">
-                IlmuQur'an
+                SUQURA
               </span>
             </div>
 
@@ -28,51 +28,6 @@ export default function Footer() {
             </p>
           </div>
 
-          {[
-            {
-              title: "Belajar",
-              links: [
-                "Al-Qur'an",
-                "Hadis",
-                "Tafsir",
-                "Ulumul Hadis",
-              ],
-            },
-            {
-              title: "Jelajahi",
-              links: [
-                "Tokoh",
-                "Kitab",
-                "Timeline",
-                "Istilah",
-              ],
-            },
-            {
-              title: "Lainnya",
-              links: [
-                "Tentang Kami",
-                "Kebijakan Privasi",
-                "Syarat & Ketentuan",
-                "Hubungi Kami",
-              ],
-            },
-          ].map((col) => (
-            <div key={col.title}>
-              <p className="font-semibold text-white text-sm mb-3">
-                {col.title}
-              </p>
-
-              <ul className="space-y-2">
-                {col.links.map((link) => (
-                  <li key={link}>
-                    <button className="hover:text-white transition-colors text-xs">
-                      {link}
-                    </button>
-                  </li>
-                ))}
-              </ul>
-            </div>
-          ))}
         </div>
 
         <div className="border-t border-white/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-3">
