@@ -1,0 +1,54 @@
+{
+  "id": "lesson1",
+  "title": "Apa sih Ulumul Qur'an itu?",
+  "slug": "apa-itu-ulumul-quran",
+  "description": "Mengenal dasar-dasar ilmu yang mempelajari tentang Al-Qur'an secara mendalam.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Apa itu Ulumul Qur'an?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Secara bahasa, Ulumul Qur'an berasal dari dua kata: 'Ulum' (jamak dari 'ilmun') yang artinya ilmu-ilmu, dan 'Al-Qur'an' yang merupakan kitab suci umat Islam. Jadi, Ulumul Qur'an adalah kumpulan ilmu yang membahas segala hal yang berkaitan dengan Al-Qur'an."
+    },
+    {
+      "type": "paragraph",
+      "value": "Ilmu ini bukan hanya tentang satu hal, melainkan cakupan luas yang menjadi jembatan bagi kita untuk memahami kalam Allah dengan benar dan tidak asal tafsir."
+    },
+    {
+      "type": "heading",
+      "value": "Apa saja yang dipelajari dalam ilmu ini?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sejarah turunnya wahyu (Nuzulul Qur'an): Kapan dan di mana ayat tersebut turun.",
+        "Asbabun Nuzul: Peristiwa atau sebab yang melatarbelakangi turunnya suatu ayat.",
+        "Rasm dan Qira'at: Bagaimana Al-Qur'an ditulis (khat) dan bagaimana cara membacanya.",
+        "Nasikh dan Mansukh: Ayat yang hukumnya diganti atau disempurnakan.",
+        "Muhkamat dan Mutasyabihat: Membedakan ayat yang maknanya jelas dan ayat yang penuh rahasia/simbolis."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Kenapa Ilmu Ini Penting?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Bayangkan Al-Qur'an adalah sebuah harta karun yang sangat berharga. Untuk mengambil isinya, kita butuh 'peta' dan 'kunci'. Nah, Ulumul Qur'an inilah peta dan kunci tersebut."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Menjaga kita agar tidak terjebak dalam penafsiran yang salah atau menyesatkan.",
+        "Membantu kita memahami hikmah dan maksud di balik setiap perintah Allah.",
+        "Menambah kekaguman kita kepada Al-Qur'an sebagai mukjizat yang sangat teliti penjagaannya."
+      ]
+    },
+    {
+      "type": "note",
+      "value": "Tanpa Ulumul Qur'an, seseorang bisa saja menafsirkan ayat sesuai hawa nafsunya sendiri. Dengan ilmu ini, kita belajar bahwa menafsirkan Al-Qur'an itu butuh syarat dan etika!"
+    }
+  ]
+}

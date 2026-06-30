@@ -1,0 +1,41 @@
+{
+  "id": "lesson2",
+  "title": "Kenapa Kita Harus Belajar Ulumul Qur'an?",
+  "slug": "urgensi-belajar",
+  "description": "Memahami alasan mendasar dan manfaat mempelajari ilmu-ilmu Al-Qur'an dalam kehidupan sehari-hari.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Mengapa Ulumul Qur'an Itu Penting?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Mungkin kamu bertanya, 'Kenapa sih harus repot-repot belajar ilmu ini? Kan yang penting membaca Al-Qur'an dan mengamalkannya saja?' Pertanyaan itu sangat bagus! Namun, belajar Ulumul Qur'an bukan sekadar menambah teori, melainkan cara kita menjaga kemurnian pemahaman agama."
+    },
+    {
+      "type": "heading",
+      "value": "Manfaat Mempelajari Ulumul Qur'an"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Menjadi benteng diri: Dengan ilmu ini, kita tidak mudah termakan penafsiran ayat yang asal-asalan atau menyimpang dari ajaran yang benar.",
+        "Meningkatkan kualitas ibadah: Memahami maksud ayat membuat ibadah kita terasa lebih bermakna karena kita tahu apa yang diperintahkan Allah secara tepat.",
+        "Menjaga kesucian wahyu: Kita jadi sadar betapa teliti dan luar biasanya perjuangan para sahabat dan ulama dalam menjaga Al-Qur'an dari masa ke masa.",
+        "Sarana meraih rida Allah: Menuntut ilmu agama, apalagi yang berkaitan langsung dengan kitab suci, adalah salah satu jalan paling mulia untuk mendekatkan diri kepada-Nya."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Apa jadinya kalau kita tidak belajar?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Tanpa dasar ilmu yang benar, seseorang berisiko terjebak dalam 'tafsir pribadi' atau mengikuti paham yang hanya berdasarkan opini tanpa dasar keilmuan. Inilah yang sering menyebabkan kesalahpahaman dalam beragama."
+    },
+    {
+      "type": "note",
+      "value": "Belajar Ulumul Qur'an adalah langkah awal untuk menjadi muslim yang tidak hanya taat, tapi juga cerdas dalam memahami sumber utama ajaran Islam."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "lesson1",
+    "title": "Apa itu Asbabun Nuzul?",
+    "slug": "apa-itu-asbabun-nuzul",
+    "description": "Mempelajari latar belakang atau peristiwa di balik turunnya suatu ayat Al-Qur'an.",
+    "content": [
+      {
+        "type": "heading",
+        "value": "Apa itu Asbabun Nuzul?"
+      },
+      {
+        "type": "paragraph",
+        "value": "Secara bahasa, Asbabun Nuzul terdiri dari dua kata: 'Asbab' yang berarti sebab-sebab, dan 'Nuzul' yang berarti turun. Secara istilah, Asbabun Nuzul adalah peristiwa atau kejadian yang melatarbelakangi turunnya satu atau beberapa ayat Al-Qur'an sebagai jawaban, penjelasan, atau solusi atas peristiwa tersebut."
+      },
+      {
+        "type": "heading",
+        "value": "Kenapa Penting Mempelajari Asbabun Nuzul?"
+      },
+      {
+        "type": "paragraph",
+        "value": "Memahami konteks turunnya ayat sangat membantu kita untuk menangkap makna yang sesungguhnya. Tanpa mengetahui Asbabun Nuzul, seseorang bisa salah dalam memahami maksud ayat, terutama dalam konteks hukum atau perintah tertentu."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Membantu memahami maksud Allah dalam sebuah ayat dengan lebih spesifik.",
+          "Menghindarkan kita dari kekeliruan menafsirkan ayat secara tekstual saja tanpa melihat konteksnya.",
+          "Mengetahui sejarah kehidupan Nabi Muhammad SAW dan para sahabat di masa wahyu diturunkan."
+        ]
+      },
+      {
+        "type": "heading",
+        "value": "Contoh Sederhana"
+      },
+      {
+        "type": "paragraph",
+        "value": "Sebagai contoh, sebuah ayat mungkin turun untuk menjawab pertanyaan dari seorang sahabat, atau untuk memberikan ketegasan atas suatu perselisihan yang terjadi di masyarakat saat itu. Dengan mengetahui kejadian tersebut, kita akan lebih paham mengapa ayat itu turun dengan redaksi yang demikian."
+      },
+      {
+        "type": "note",
+        "value": "Perlu diingat: Tidak semua ayat Al-Qur'an memiliki Asbabun Nuzul. Ada banyak ayat yang turun secara langsung (ibtida'an) tanpa didahului oleh suatu peristiwa spesifik."
+      }
+    ]
+  }

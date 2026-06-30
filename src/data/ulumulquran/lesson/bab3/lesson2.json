@@ -1,0 +1,44 @@
+{
+  "id": "lesson2",
+  "title": "Apa itu Qira'at?",
+  "slug": "apa-itu-qiraat",
+  "description": "Memahami pengertian Qira'at dan mengapa terdapat keragaman dalam cara membaca Al-Qur'an.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Mengenal Apa itu Qira'at"
+    },
+    {
+      "type": "paragraph",
+      "value": "Secara bahasa, 'Qira'at' adalah bentuk jamak dari 'Qira'ah' yang artinya bacaan. Dalam disiplin Ulumul Qur'an, Qira'at adalah ilmu yang membahas tentang cara melafalkan kalimat-kalimat Al-Qur'an dan perbedaan-perbedaan pelafalannya yang disandarkan kepada periwayatan yang mutawatir."
+    },
+    {
+      "type": "heading",
+      "value": "Kenapa Ada Perbedaan Cara Membaca?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Perbedaan cara membaca ini bukanlah sebuah kesalahan atau hasil rekayasa, melainkan sudah ada sejak zaman Rasulullah SAW. Tujuannya adalah untuk memudahkan umat dengan berbagai latar belakang dialek bahasa Arab yang berbeda-beda agar bisa membaca Al-Qur'an dengan lancar."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Memudahkan umat: Mengakomodasi keragaman dialek suku-suku Arab saat itu.",
+        "Bukti Mukjizat: Keindahan Al-Qur'an yang tetap terjaga maknanya meski terdapat variasi dalam pelafalannya.",
+        "Kekayaan Makna: Dalam beberapa kasus, perbedaan Qira'at justru menambah kedalaman pemahaman atau memberikan hukum yang saling melengkapi."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Syarat Qira'at yang Sah"
+    },
+    {
+      "type": "paragraph",
+      "value": "Tidak semua cara membaca disebut sebagai Qira'at yang sah. Sebuah bacaan dianggap sah (maqbul) jika memenuhi tiga kriteria utama: (1) Sanadnya bersambung secara mutawatir kepada Nabi SAW, (2) Sesuai dengan kaidah bahasa Arab, dan (3) Sesuai dengan salah satu mushaf Utsmani."
+    },
+    {
+      "type": "note",
+      "value": "Penting untuk dipahami bahwa perbedaan Qira'at tidak mengubah makna dasar atau pokok akidah dalam Al-Qur'an. Ini adalah salah satu bentuk kasih sayang Allah SWT terhadap umat-Nya."
+    }
+  ]
+}

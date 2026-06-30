@@ -13,7 +13,7 @@ export function BacktoHome() {
         <Home className="w-4 h-4 transition-transform group-hover:scale-110 " />
         <span>Kembali ke Beranda</span>
       </button>
-          </Link>
+    </Link>
     </div>
   );
 }

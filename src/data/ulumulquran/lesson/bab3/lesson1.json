@@ -1,0 +1,44 @@
+{
+    "id": "lesson1",
+    "title": "Mengenal Rasm Utsmani",
+    "slug": "mengenal-rasm-utsmani",
+    "description": "Belajar tentang sejarah penulisan mushaf Al-Qur'an di zaman Khalifah Utsman bin Affan.",
+    "content": [
+      {
+        "type": "heading",
+        "value": "Apa itu Rasm Utsmani?"
+      },
+      {
+        "type": "paragraph",
+        "value": "Rasm Utsmani adalah tata cara penulisan mushaf Al-Qur'an yang ditetapkan dan dibakukan pada masa Khalifah Utsman bin Affan. Penulisan ini dilakukan untuk menyatukan bacaan umat Islam yang saat itu mulai beragam seiring dengan meluasnya wilayah kekuasaan Islam."
+      },
+      {
+        "type": "heading",
+        "value": "Mengapa Penulisan Ini Sangat Penting?"
+      },
+      {
+        "type": "paragraph",
+        "value": "Pada masa pemerintahan Utsman, terjadi perselisihan di kalangan umat Islam mengenai cara membaca Al-Qur'an (dialek). Khawatir akan terjadinya perpecahan, Utsman memerintahkan penulisan mushaf standar yang disalin dari lembaran-lembaran yang disimpan oleh Hafshah binti Umar."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Menjaga kesatuan umat dalam satu standar penulisan (khat).",
+          "Menghindari kesalahan fatal dalam pelafalan ayat akibat perbedaan dialek.",
+          "Menjamin keaslian teks Al-Qur'an agar terjaga dari perubahan atau penambahan."
+        ]
+      },
+      {
+        "type": "heading",
+        "value": "Keunikan Penulisan Rasm Utsmani"
+      },
+      {
+        "type": "paragraph",
+        "value": "Penulisan Rasm Utsmani memiliki kaidah tersendiri yang berbeda dengan kaidah penulisan bahasa Arab standar (imla'i). Misalnya, ada beberapa huruf yang ditulis tidak sesuai dengan bunyi pengucapannya, namun hal ini justru menjadi kunci dalam menjaga otentisitas qira'at yang mutawatir."
+      },
+      {
+        "type": "note",
+        "value": "Sampai hari ini, hampir seluruh dunia Islam menggunakan kaidah Rasm Utsmani dalam pencetakan mushaf Al-Qur'an sebagai bentuk penghormatan dan penjagaan terhadap sunnah para sahabat Nabi."
+      }
+    ]
+  }

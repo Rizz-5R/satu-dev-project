@@ -1,0 +1,39 @@
+{
+  "id": "bab1",
+  "title": "Mengenal Ulumul Qur'an",
+  "slug": "mengenal-ulumul-quran",
+  "description": "Yuk, kenalan sama ilmu yang jadi kunci utama buat memahami Al-Qur'an dengan cara yang seru dan mudah!",
+  "order": 1,
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "Apa sih Ulumul Qur'an itu?",
+      "slug": "apa-itu-ulumul-quran"
+    },
+    {
+      "id": "lesson2",
+      "title": "Kenapa kita harus belajar ilmu ini?",
+      "slug": "kenapa-harus-belajar"
+    },
+    {
+      "id": "lesson3",
+      "title": "Kisah Al-Qur'an dari masa ke masa",
+      "slug": "sejarah-singkat"
+    },
+    {
+      "id": "lesson4",
+      "title": "Gimana cara para ulama membukukan ilmu ini?",
+      "slug": "cara-ulama-membukukan"
+    },
+    {
+      "id": "lesson5",
+      "title": "Apa saja sih yang dipelajari di sini?",
+      "slug": "apa-saja-isinya"
+    }
+  ],
+  "next": {
+    "id": "bab2",
+    "slug": "sejarah-turunnya-al-quran",
+    "title": "Serunya Belajar Sejarah Turunnya Al-Qur'an"
+  }
+}

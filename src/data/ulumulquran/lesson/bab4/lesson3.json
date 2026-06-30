@@ -1,0 +1,47 @@
+{
+  "id": "lesson3",
+  "title": "Ayat Umum (Am) dan Khusus (Khash)",
+  "slug": "am-dan-khash",
+  "description": "Belajar membedakan cakupan hukum: mana yang berlaku untuk semua dan mana yang khusus untuk kondisi tertentu.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Memahami Am dan Khash"
+    },
+    {
+      "type": "paragraph",
+      "value": "Dalam memahami hukum Al-Qur'an, kita harus bisa membedakan mana perintah yang bersifat umum bagi semua orang dan mana yang bersifat khusus. Ini adalah salah satu kunci agar kita tidak melakukan generalisasi hukum yang keliru."
+    },
+    {
+      "type": "heading",
+      "value": "Apa itu 'Am dan Khash?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Am (Umum): Lafadz yang mencakup seluruh satuan yang ada di bawahnya tanpa pembatasan. Contohnya, perintah yang ditujukan kepada 'semua orang beriman'.",
+        "Khash (Khusus): Lafadz yang mencakup satu atau beberapa satuan tertentu saja, bukan keseluruhan. Ini memberikan batasan terhadap ayat yang bersifat umum."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Pentingnya Membedakan Keduanya"
+    },
+    {
+      "type": "paragraph",
+      "value": "Seringkali muncul kekacauan dalam memahami hukum karena orang mengambil ayat yang bersifat 'Am (umum) namun mengabaikan adanya ayat 'Khash (khusus) yang memberikan pengecualian atau batasan. Ilmu ini membantu kita untuk melihat ayat secara komprehensif."
+    },
+    {
+      "type": "heading",
+      "value": "Contoh dalam Hukum"
+    },
+    {
+      "type": "paragraph",
+      "value": "Misalnya, ada ayat yang memberikan perintah umum tentang suatu kewajiban, namun di ayat lain atau hadis, diberikan pengecualian bagi orang yang sedang sakit atau musafir. Pengecualian inilah yang disebut dengan mentakhshish (mengkhususkan)."
+    },
+    {
+      "type": "note",
+      "value": "Memahami kaidah ini melatih ketelitian kita. Jangan terburu-buru mengambil kesimpulan hukum dari satu ayat sebelum memastikan apakah ada ayat lain yang membatasi (takhshish) ayat tersebut atau tidak."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "lesson1",
+  "title": "Apa itu Ayat Muhkamat?",
+  "slug": "mengenal-muhkamat",
+  "description": "Mengenal ayat yang maknanya terang benderang dan menjadi induk hukum.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Apa itu Ayat Muhkamat?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Secara bahasa, 'Muhkamat' berasal dari kata 'ihkam' yang berarti kokoh atau jelas. Dalam Ulumul Qur'an, ayat muhkamat adalah ayat-ayat yang maknanya sangat jelas, terang benderang, dan tidak mengandung kemungkinan penafsiran lain yang bertentangan."
+    },
+    {
+      "type": "heading",
+      "value": "Ciri-Ciri Ayat Muhkamat"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Maknanya mudah dipahami oleh siapa saja, baik orang awam maupun ulama.",
+        "Merupakan dasar (pondasi) dari syariat Islam (Ummul Kitab).",
+        "Berisi tentang hukum yang sudah pasti, perintah wajib, larangan tegas, dan kisah-kisah yang nyata."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Mengapa Muhkamat Itu Penting?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Ayat-ayat muhkamat adalah rujukan utama. Jika seseorang merasa menemukan ayat yang maknanya membingungkan (mutasyabihat), ia harus mengembalikannya kepada ayat-ayat muhkamat agar pemahamannya tetap berada di jalur yang benar."
+    },
+    {
+      "type": "note",
+      "value": "Mayoritas ayat dalam Al-Qur'an adalah ayat muhkamat. Ini menunjukkan kemudahan Islam bagi umatnya dalam memahami syariat yang esensial."
+    }
+  ]
+}

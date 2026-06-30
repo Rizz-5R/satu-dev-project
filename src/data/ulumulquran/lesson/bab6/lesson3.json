@@ -1,0 +1,40 @@
+{
+  "id": "lesson3",
+  "title": "Al-Qur'an dan Ilmu Pengetahuan",
+  "slug": "alquran-sains",
+  "description": "Mengenal isyarat-isyarat ilmiah dalam Al-Qur'an yang baru terbukti kebenarannya di era modern.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Isyarat Ilmiah dalam Al-Qur'an"
+    },
+    {
+      "type": "paragraph",
+      "value": "Al-Qur'an bukanlah kitab teks sains, namun ia memuat banyak isyarat tentang fenomena alam semesta yang baru bisa dibuktikan oleh ilmu pengetahuan modern setelah 14 abad kemudian."
+    },
+    {
+      "type": "heading",
+      "value": "Contoh Fenomena"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Embriologi: Penjelasan tentang tahapan penciptaan manusia di dalam rahim yang sangat detail.",
+        "Astronomi: Penjelasan tentang peredaran benda langit, pengembangan alam semesta, dan siklus air.",
+        "Geologi: Penjelasan tentang fungsi gunung sebagai 'paku' bumi untuk menjaga kestabilan kerak bumi."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Sikap yang Benar"
+    },
+    {
+      "type": "paragraph",
+      "value": "Isyarat ilmiah ini memperkuat iman bahwa Sang Pencipta alam semesta adalah juga Zat yang menurunkan Al-Qur'an. Namun, kita harus tetap proporsional; tujuan utama Al-Qur'an adalah petunjuk bagi manusia, bukan buku teks biologi atau fisika."
+    },
+    {
+      "type": "note",
+      "value": "Kemajuan sains terus mengungkap kebenaran ayat-ayat Al-Qur'an. Semakin dalam kita belajar ilmu pengetahuan, semakin besar kekaguman kita kepada Sang Pencipta."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "lesson1",
+  "title": "Apa itu I'jazul Qur'an?",
+  "slug": "apa-itu-ijazul-quran",
+  "description": "Belajar arti kemukjizatan dan mengapa Al-Qur'an disebut mukjizat terbesar Nabi.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Apa Itu I'jaz?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Secara bahasa, 'I'jaz' berarti melemahkan atau membuat tidak berdaya. Dalam konteks Al-Qur'an, I'jaz berarti menampakkan kebenaran Nabi Muhammad SAW melalui kelemahan manusia (baik sastrawan maupun ilmuwan) untuk menandingi Al-Qur'an."
+    },
+    {
+      "type": "heading",
+      "value": "Mengapa Disebut Mukjizat Terbesar?"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Abadi: Mukjizat nabi lain bersifat fisik dan musiman, sedangkan Al-Qur'an mukjizat intelektual yang berlaku selamanya.",
+        "Universal: Tidak terbatas pada satu kaum atau satu zaman saja.",
+        "Menantang Zaman: Al-Qur'an menantang siapa pun yang meragukannya untuk membuat satu surat saja yang semisal, dan hingga hari ini tidak ada yang mampu."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Fungsi I'jazul Qur'an"
+    },
+    {
+      "type": "paragraph",
+      "value": "I'jaz berfungsi sebagai bukti nyata bahwa Al-Qur'an bukanlah karangan manusia, melainkan benar-benar wahyu dari Allah SWT untuk memandu seluruh umat manusia."
+    },
+    {
+      "type": "note",
+      "value": "Keyakinan akan kemukjizatan Al-Qur'an adalah fondasi utama bagi setiap Muslim untuk menumbuhkan rasa cinta dan takzim kepada Kitabullah."
+    }
+  ]
+}

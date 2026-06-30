@@ -1,0 +1,28 @@
+{
+  "id": "lesson4",
+  "title": "Rekomendasi Tafsir untuk Pemula",
+  "slug": "rekomendasi-tafsir",
+  "description": "Mengenalkan kitab-kitab tafsir yang ringan dan mudah dipelajari oleh siswa pemula.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Belajar dari Mana?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Untuk pemula, disarankan membaca tafsir yang ringkas namun tetap otoritatif dan mudah dipahami."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Tafsir Al-Muyassar: Sangat populer karena bahasanya sederhana dan langsung pada inti makna ayat.",
+        "Tafsir As-Sa'di: Sangat bagus untuk memahami makna ayat sekaligus mendapatkan faedah (hikmah) dari ayat tersebut.",
+        "Tafsir Ringkas Kemenag: Pilihan yang sangat baik bagi pembaca berbahasa Indonesia karena sudah disesuaikan dengan konteks pemahaman masyarakat."
+      ]
+    },
+    {
+      "type": "note",
+      "value": "Mulailah belajar tafsir bersama guru agar setiap keraguan dalam memahami ayat bisa segera didiskusikan."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bab7",
+  "title": "Cara Menafsirkan Al-Qur'an",
+  "slug": "cara-menafsirkan-al-quran",
+  "description": "Belajar langkah awal dan etika kalau mau menafsirkan ayat Al-Qur'an agar sesuai dengan tuntunan ulama.",
+  "order": 7,
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "Adab Terhadap Al-Qur'an",
+      "slug": "adab-terhadap-quran",
+      "summary": "Mempelajari etika lahiriah dan batiniah sebelum kita berinteraksi dengan ayat-ayat Allah."
+    },
+    {
+      "id": "lesson2",
+      "title": "Mengenal Tafsir dan Terjemahan",
+      "slug": "tafsir-dan-terjemahan",
+      "summary": "Memahami perbedaan mendasar antara menerjemahkan bahasa dan menafsirkan makna ayat."
+    },
+    {
+      "id": "lesson3",
+      "title": "Syarat Menjadi Mufassir",
+      "slug": "syarat-mufassir",
+      "summary": "Belajar bahwa untuk menafsirkan Al-Qur'an, seseorang harus memiliki bekal ilmu yang luas."
+    },
+    {
+      "id": "lesson4",
+      "title": "Rekomendasi Tafsir untuk Pemula",
+      "slug": "rekomendasi-tafsir",
+      "summary": "Mengenalkan kitab-kitab tafsir yang ringan dan mudah dipelajari oleh siswa pemula."
+    }
+  ],
+  "next": null
+}
+

@@ -1,0 +1,32 @@
+{
+  "id": "bab5",
+  "title": "Struktur Ayat: Muhkam & Mutasyabih",
+  "slug": "muhkam-dan-mutasyabih",
+  "description": "Belajar membedakan ayat yang maknanya sudah jelas dengan ayat yang butuh penjelasan lebih dalam.",
+  "order": 5,
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "Apa itu Ayat Muhkamat?",
+      "slug": "mengenal-muhkamat",
+      "summary": "Mengenal ayat yang maknanya terang benderang dan menjadi induk hukum."
+    },
+    {
+      "id": "lesson2",
+      "title": "Apa itu Ayat Mutasyabihat?",
+      "slug": "mengenal-mutasyabihat",
+      "summary": "Belajar tentang ayat yang maknanya belum jelas atau menyimpan rahasia ilahi."
+    },
+    {
+      "id": "lesson3",
+      "title": "Cara Menyikapi Ayat Mutasyabih",
+      "slug": "menyikapi-mutasyabih",
+      "summary": "Belajar adab dan sikap yang benar agar tidak terjebak dalam penafsiran yang salah."
+    }
+  ],
+  "next": {
+    "id": "bab6",
+    "slug": "ijazul-quran",
+    "title": "I'jazul Qur'an & Sisi Mukjizat"
+  }
+}

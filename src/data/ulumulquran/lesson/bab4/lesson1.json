@@ -1,0 +1,44 @@
+{
+  "id": "lesson3",
+  "title": "Sejarah Qira'at yang Mutawatir",
+  "slug": "sejarah-qiraat-mutawatir",
+  "description": "Mengenal bahwa perbedaan bacaan ini sudah ada sejak zaman Nabi dan tetap terjaga keasliannya.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Apa Itu Qira'at Mutawatir?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Qira'at mutawatir adalah bacaan yang diriwayatkan oleh orang banyak dari orang banyak yang secara logika mustahil mereka bersepakat untuk berbohong. Jalur periwayatannya tidak terputus sampai kepada Rasulullah SAW, sehingga kebenarannya bersifat mutlak."
+    },
+    {
+      "type": "heading",
+      "value": "Sejarah Singkat Perkembangannya"
+    },
+    {
+      "type": "paragraph",
+      "value": "Keberagaman bacaan ini sudah diizinkan oleh Nabi SAW (sebagaimana hadis tentang turunnya Al-Qur'an dalam tujuh huruf). Setelah masa sahabat, para tabi'in di berbagai pusat peradaban Islam seperti Mekkah, Madinah, Kufah, Basrah, dan Syam mulai mempopulerkan bacaan yang mereka terima dari para sahabat di wilayah tersebut."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Masa Kodifikasi: Ulama mulai menyaring dan membukukan qira'at yang benar-benar memiliki sanad mutawatir.",
+        "Imam Tujuh (Al-Qurra' as-Sab'ah): Tokoh-tokoh paling masyhur yang bacaannya disepakati keotentikannya oleh umat Islam.",
+        "Standarisasi: Para ulama memastikan bahwa perbedaan bacaan ini tidak saling bertentangan secara makna."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Mengapa Tetap Terjaga?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Kunci terjaganya qira'at mutawatir adalah metode 'Talaqqi' dan 'Musyafahah'. Artinya, seseorang tidak bisa mengklaim bisa membaca Al-Qur'an hanya dengan membaca buku, melainkan harus mendengarkan langsung dari guru yang juga mendengar dari gurunya, hingga bersambung ke Rasulullah SAW."
+    },
+    {
+      "type": "note",
+      "value": "Perbedaan dalam qira'at mutawatir justru memperkaya khazanah Islam dan membuktikan betapa telitinya para ulama terdahulu dalam menjaga kemurnian setiap huruf Al-Qur'an."
+    }
+  ]
+}

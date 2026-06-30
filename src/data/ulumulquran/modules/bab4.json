@@ -1,0 +1,32 @@
+{
+  "id": "bab4",
+  "title": "Kaidah Pemahaman: Nasikh & Mansukh",
+  "slug": "nasikh-dan-mansukh",
+  "description": "Belajar aturan main dalam memahami hukum di dalam ayat-ayat Al-Qur'an agar tidak salah paham.",
+  "order": 4,
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "Apa itu Nasikh dan Mansukh?",
+      "slug": "pengertian-nasikh-mansukh",
+      "summary": "Memahami konsep ayat yang menghapus hukum (Nasikh) dan ayat yang hukumnya dihapus (Mansukh)."
+    },
+    {
+      "id": "lesson2",
+      "title": "Hikmah di Balik Nasikh dan Mansukh",
+      "slug": "hikmah-nasikh-mansukh",
+      "summary": "Belajar mengapa Allah menurunkan hukum yang berubah, seperti proses bertahapnya pelarangan khamr."
+    },
+    {
+      "id": "lesson3",
+      "title": "Ayat Umum (Am) dan Khusus (Khash)",
+      "slug": "am-dan-khash",
+      "summary": "Belajar membedakan cakupan hukum: mana yang berlaku umum untuk semua dan mana yang khusus untuk kondisi tertentu."
+    }
+  ],
+  "next": {
+    "id": "bab5",
+    "slug": "muhkam-dan-mutasyabih",
+    "title": "Struktur Ayat: Muhkam & Mutasyabih"
+  }
+}

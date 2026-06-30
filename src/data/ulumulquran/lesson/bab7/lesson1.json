@@ -1,0 +1,25 @@
+{
+  "id": "lesson1",
+  "title": "Adab Terhadap Al-Qur'an",
+  "slug": "adab-terhadap-quran",
+  "description": "Mempelajari etika lahiriah dan batiniah sebelum berinteraksi dengan ayat-ayat Allah.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Pentingnya Adab Sebelum Ilmu"
+    },
+    {
+      "type": "paragraph",
+      "value": "Menafsirkan Al-Qur'an bukanlah kegiatan akademik biasa. Ia adalah interaksi dengan Kalam Allah. Oleh karena itu, para ulama menekankan pentingnya adab (etika) agar hati kita siap menerima cahaya ilmu."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Niat yang Ikhlas: Semata-mata untuk mencari keridaan Allah, bukan untuk popularitas.",
+        "Menjaga Kesucian: Memulai dengan berwudhu dan membaca Ta'awudz.",
+        "Mengagungkan Kitabullah: Memperlakukan mushaf dengan rasa hormat, baik secara fisik maupun dalam membacanya.",
+        "Mendekati dengan Rasa Takut dan Harap: Menyadari bahwa setiap ayat membawa beban tanggung jawab untuk diamalkan."
+      ]
+    }
+  ]
+}
