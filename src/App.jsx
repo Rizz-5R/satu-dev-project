@@ -13,6 +13,7 @@ import TokohPage from "./pages/ulumulquran/page/tokoh/TokohPage";
 import TokohContentPage from "./pages/ulumulquran/page/tokoh/TokohContentPage";
 import WelcomePage from "./pages/ulumulquran/WelocomePage";
 import QuizPage from "./pages/quiz/QuizPage";
+import AboutPage from "./pages/about/AboutPage";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
 
@@ -36,6 +37,7 @@ function App() {
         <Route path="quran/tokoh/:id" element={<TokohContentPage />} />
         {/* Quiz */}
         <Route path="/quizpage" element={<QuizPage />} />
+        <Route path="/aboutpage" element={<AboutPage />} />
       </Routes>
       <Footer />
     </BrowserRouter>

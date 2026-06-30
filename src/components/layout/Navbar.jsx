@@ -1,8 +1,14 @@
 import { useState } from "react";
+import { NavLink } from "react-router-dom";
 import SearchIcon from "../cardhome/Icons";
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
+  const navItems = [
+  { name: "Beranda", path: "/" },
+  { name: "Quiz", path: "/quizpage"},
+  { name: "About", path: "/aboutpage" },
+];
 
   return (
     <nav className="sticky top-0 z-50 bg-white border-b border-gray-100 shadow-sm">
@@ -23,35 +29,24 @@ export default function Navbar() {
           </div>
 
           {/* Nav Links - desktop */}
-          <div className="hidden md:flex items-center gap-6 text-sm font-medium text-gray-600">
-            {["Beranda", "Belajar", "Jelajahi", "Quiz", "About"].map(
-              (item, i) => (
-                <button
-                  key={item}
-                  className={`flex items-center gap-1 hover:text-green-800 transition-colors ${
-                    i === 0 ? "text-green-800 font-semibold" : ""
-                  }`}
-                >
-                  {item}
-                  {(i === 1 || i === 2) && (
-                    <svg
-                      viewBox="0 0 24 24"
-                      fill="none"
-                      stroke="currentColor"
-                      strokeWidth="2.5"
-                      className="w-3 h-3 mt-0.5"
-                    >
-                      <path
-                        d="M6 9l6 6 6-6"
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                      />
-                    </svg>
-                  )}
-                </button>
-              )
-            )}
-          </div>
+          <div className="hidden md:flex items-center gap-6 text-sm font-medium">
+  {navItems.map((item) => (
+    <NavLink
+      key={item.name}
+      to={item.path}
+      className={({ isActive }) =>
+        `flex items-center gap-1 transition-colors ${
+          isActive
+            ? "text-green-800 font-semibold"
+            : "text-gray-600 hover:text-green-800"
+        }`
+      }
+    >
+      {item.name}
+
+    </NavLink>
+  ))}
+</div>
 
           {/* Right section */}
           <div className="hidden md:flex items-center gap-3">
@@ -92,7 +87,7 @@ export default function Navbar() {
       {/* Mobile menu */}
       {mobileOpen && (
         <div className="md:hidden border-t border-gray-100 bg-white px-4 py-4 flex flex-col gap-3 text-sm font-medium text-gray-700">
-          {["Beranda", "Belajar", "Jelajahi", "Timeline", "Quiz"].map((item) => (
+          {["Beranda", "Belajar", "Quiz", "About"].map((item) => (
             <button
               key={item}
               className="text-left hover:text-green-800"

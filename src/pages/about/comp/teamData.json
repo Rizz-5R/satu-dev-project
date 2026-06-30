@@ -1,0 +1,25 @@
+{
+  "team": [
+    {
+      "id": "dev-001",
+      "name": "Syaiful Rijal",
+      "role": "Project Lead & Full-Stack Developer",
+      "initials": "SR",
+      "bio": "Mengarsiteki struktur aplikasi dan alur data Suqura, dari modul Ulumul Qur'an hingga sistem Quiz bertingkat."
+    },
+    {
+      "id": "dev-002",
+      "name": "M. Fadhil Febriansyah",
+      "role": "Frontend Developer & UI Engineer",
+      "initials": "FF",
+      "bio": "Membangun antarmuka dan komponen interaktif, memastikan pengalaman belajar tetap nyaman di semua perangkat."
+    },
+    {
+      "id": "dev-003",
+      "name": "Khoirun Nizam",
+      "role": "Content Researcher & Data Curator",
+      "initials": "KN",
+      "bio": "Menyusun dan mengkurasi materi Ulumul Qur'an dan Ulumul Hadis agar akurat dan mudah dipahami."
+    }
+  ]
+}
