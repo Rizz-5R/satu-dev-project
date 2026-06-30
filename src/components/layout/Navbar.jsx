@@ -78,7 +78,14 @@ export default function Navbar() {
             <NavLink
               key={item.name}
               to={item.path}
-              className="text-left hover:text-green-800"
+              onClick={() => setMobileOpen(false)}
+              className={({ isActive }) =>
+                `text-left transition-colors ${
+                  isActive
+                    ? "text-green-800 font-semibold"
+                    : "hover:text-green-800"
+                }`
+              }
             >
               {item.name}
             </NavLink>

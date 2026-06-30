@@ -53,9 +53,9 @@ const LevelSelectScreen = ({ totalLevels, getLevelStatus, onStartLevel }) => (
         Evaluasi Pembelajaran
       </div>
       <h1 className="text-2xl font-extrabold text-slate-800 mb-2">Quiz Suqura</h1>
-      <p className="text-sm text-slate-500 max-w-xs mx-auto">
-        Uji pemahamanmu tentang Ulumul Qur'an dan Ilmu Hadis. Selesaikan setiap level untuk membuka yang berikutnya.
-      </p>
+      <h3 className="text-lg text-red-500 max-w-xs mx-auto">
+        Selesaikan setiap level untuk membuka level berikutnya.
+      </h3>
     </div>
 
     {/* Level cards */}
