@@ -1,0 +1,51 @@
+[
+  {
+    "id": "bab1",
+    "title": "Mengenal Ulumul Qur'an",
+    "slug": "mengenal-ulumul-quran",
+    "description": "Yuk, kenalan sama ilmu yang jadi kunci utama buat memahami Al-Qur'an dengan cara yang seru dan mudah!",
+    "order": 1
+  },
+  {
+    "id": "bab2",
+    "title": "Sejarah Turunnya Al-Qur'an",
+    "slug": "sejarah-turunnya-al-quran",
+    "description": "Cari tahu gimana proses wahyu turun ke Nabi Muhammad SAW dan kisah di balik ayat-ayatnya.",
+    "order": 2
+  },
+  {
+    "id": "bab3",
+    "title": "Kaidah Tekstual: Rasm & Qira'at",
+    "slug": "rasm-dan-qiraat",
+    "description": "Mempelajari sejarah penulisan mushaf (Rasm Utsmani) dan keragaman cara membaca (Qira'at) Al-Qur'an.",
+    "order": 3
+  },
+  {
+    "id": "bab4",
+    "title": "Kaidah Pemahaman: Nasikh & Mansukh",
+    "slug": "nasikh-dan-mansukh",
+    "description": "Belajar aturan main dalam memahami hukum di dalam ayat-ayat Al-Qur'an agar tidak salah paham.",
+    "order": 4
+  },
+  {
+    "id": "bab5",
+    "title": "Struktur Ayat: Muhkam & Mutasyabih",
+    "slug": "muhkam-dan-mutasyabih",
+    "description": "Belajar membedakan ayat yang maknanya sudah jelas dengan ayat yang butuh penjelasan lebih dalam.",
+    "order": 5
+  },
+  {
+    "id": "bab6",
+    "title": "Keajaiban Al-Qur'an",
+    "slug": "ijazul-quran",
+    "description": "Menemukan sisi luar biasa Al-Qur'an yang bikin orang kagum sejak zaman dulu.",
+    "order": 6
+  },
+  {
+    "id": "bab7",
+    "title": "Cara Menafsirkan Al-Qur'an",
+    "slug": "cara-menafsirkan-al-quran",
+    "description": "Belajar langkah awal dan etika kalau mau menafsirkan ayat Al-Qur'an agar sesuai dengan tuntunan ulama.",
+    "order": 7
+  }
+]

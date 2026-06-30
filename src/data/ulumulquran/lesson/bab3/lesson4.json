@@ -1,0 +1,44 @@
+{
+  "id": "lesson4",
+  "title": "Peran Ulama dalam Menjaga Qira'at",
+  "slug": "peran-ulama-dalam-menjaga-qiraat",
+  "description": "Bagaimana para ulama terdahulu bekerja keras membukukan dan memastikan keaslian sanad bacaan Al-Qur'an.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Dedikasi Ulama Penjaga Qira'at"
+    },
+    {
+      "type": "paragraph",
+      "value": "Ilmu Qira'at tidak terjaga begitu saja. Sejak masa tabiin hingga masa setelahnya, para ulama melakukan perjalanan jauh (rihlah ilmiyah) hanya untuk memastikan sanad bacaan yang mereka miliki bersambung langsung kepada Rasulullah SAW."
+    },
+    {
+      "type": "heading",
+      "value": "Tokoh-Tokoh Penting"
+    },
+    {
+      "type": "paragraph",
+      "value": "Ada banyak ulama yang mendedikasikan hidupnya untuk ilmu ini. Yang paling terkenal adalah Imam Tujuh (Al-Qurra' as-Sab'ah) yang metode bacaannya disepakati keotentikannya oleh umat Islam di seluruh dunia."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Sistem Sanad: Memastikan setiap huruf yang dibaca memiliki jalur periwayatan yang jelas.",
+        "Kodifikasi: Penulisan kitab-kitab Qira'at agar tidak tercampur dengan pendapat pribadi.",
+        "Pengajaran (Talaqqi): Metode belajar langsung berhadapan dengan guru (bukan sekadar membaca buku) untuk memastikan tajwid dan makhraj yang tepat."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Mengapa Ini Penting bagi Kita?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Dengan adanya dedikasi ulama, kita bisa merasa tenang bahwa Al-Qur'an yang kita baca hari ini adalah sama persis dengan apa yang dibacakan oleh Nabi Muhammad SAW 14 abad yang lalu."
+    },
+    {
+      "type": "note",
+      "value": "Belajar Al-Qur'an bukanlah tentang seberapa cepat kita selesai, tetapi tentang bagaimana kita menjaga kemurnian bacaan melalui bimbingan guru yang sanadnya bersambung."
+    }
+  ]
+}

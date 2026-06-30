@@ -1,0 +1,40 @@
+{
+  "id": "lesson2",
+  "title": "Keajaiban Bahasa Al-Qur'an",
+  "slug": "keajaiban-bahasa",
+  "description": "Melihat betapa indahnya susunan kata dalam Al-Qur'an yang tak tertandingi oleh sastrawan manapun.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Keindahan Sastra Al-Qur'an"
+    },
+    {
+      "type": "paragraph",
+      "value": "Pada masa turunnya Al-Qur'an, masyarakat Arab sangat menjunjung tinggi sastra dan syair. Namun, ketika mereka mendengar lantunan ayat-ayat Al-Qur'an, mereka takjub dan sadar bahwa itu bukanlah syair manusia."
+    },
+    {
+      "type": "heading",
+      "value": "Sisi Keajaiban Bahasa"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Susunan Kata yang Unik: Menggabungkan prosa dan puisi dengan ritme yang khas, tidak bisa dikategorikan sebagai syair namun jauh lebih indah.",
+        "Diksi yang Presisi: Pemilihan kata yang sangat tepat (balaghah) yang mampu menyampaikan makna mendalam dalam kalimat yang ringkas.",
+        "Kekuatan Pengaruh: Kata-kata dalam Al-Qur'an memiliki daya sentuh yang mampu menggetarkan hati orang yang mendengarnya, bahkan bagi mereka yang belum mengerti artinya."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Pengakuan Sastrawan Arab"
+    },
+    {
+      "type": "paragraph",
+      "value": "Banyak sastrawan Arab kafir di masa Nabi yang secara jujur mengakui bahwa Al-Qur'an memiliki keindahan yang luar biasa dan melampaui kemampuan manusia."
+    },
+    {
+      "type": "note",
+      "value": "Keajaiban bahasa ini tetap terjaga hingga kini. Siapa pun yang mendalami bahasa Arab akan semakin kagum dengan kesempurnaan susunan setiap kalimat di dalamnya."
+    }
+  ]
+}

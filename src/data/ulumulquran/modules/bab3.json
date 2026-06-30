@@ -1,0 +1,32 @@
+{
+  "id": "bab3",
+  "title": "Kaidah Tekstual: Rasm & Qira'at",
+  "slug": "rasm-dan-qiraat",
+  "description": "Mempelajari sejarah penulisan mushaf (Rasm Utsmani) dan keragaman cara membaca (Qira'at) Al-Qur'an.",
+  "order": 3,
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "Mengenal Rasm Utsmani",
+      "slug": "mengenal-rasm-utsmani",
+      "summary": "Belajar tentang sejarah penulisan mushaf di zaman Khalifah Utsman bin Affan."
+    },
+    {
+      "id": "lesson2",
+      "title": "Apa itu Qira'at?",
+      "slug": "apa-itu-qiraat",
+      "summary": "Memahami pengertian Qira'at dan mengapa ada perbedaan cara membaca."
+    },
+    {
+      "id": "lesson3",
+      "title": "Sejarah Qira'at yang Mutawatir",
+      "slug": "sejarah-qiraat-mutawatir",
+      "summary": "Mengenal bahwa perbedaan bacaan ini sudah ada sejak zaman Nabi dan tetap terjaga keasliannya."
+    }
+  ],
+  "next": {
+    "id": "bab4",
+    "slug": "nasikh-dan-mansukh",
+    "title": "Kaidah Pemahaman: Nasikh & Mansukh"
+  }
+}

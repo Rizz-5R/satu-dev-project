@@ -1,0 +1,27 @@
+{
+  "id": "lesson2",
+  "title": "Mengenal Tafsir dan Terjemahan",
+  "slug": "tafsir-dan-terjemahan",
+  "description": "Memahami perbedaan mendasar antara menerjemahkan bahasa dan menafsirkan makna ayat.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Jangan Tertukar!"
+    },
+    {
+      "type": "paragraph",
+      "value": "Banyak orang menganggap membaca terjemahan Al-Qur'an sama dengan membaca tafsir. Padahal, keduanya memiliki kedalaman yang sangat berbeda."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Terjemahan: Hanya mengalihkan bahasa (bahasa Arab ke bahasa Indonesia) secara literal. Seringkali kehilangan konteks sejarah dan nuansa makna asli.",
+        "Tafsir: Penjelasan mendalam yang mencakup asbabun nuzul, konteks bahasa, kaidah hukum, dan penjelasan dari hadis-hadis Nabi."
+      ]
+    },
+    {
+      "type": "note",
+      "value": "Membaca terjemahan itu baik, namun jangan pernah menjadikannya dasar untuk berfatwa atau menafsirkan hukum secara mandiri."
+    }
+  ]
+}

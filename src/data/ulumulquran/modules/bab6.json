@@ -1,0 +1,32 @@
+{
+  "id": "bab6",
+  "title": "Keajaiban Al-Qur'an",
+  "slug": "ijazul-quran",
+  "description": "Menemukan sisi luar biasa Al-Qur'an yang bikin orang kagum sejak zaman dulu.",
+  "order": 6,
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "Apa itu I'jazul Qur'an?",
+      "slug": "apa-itu-ijazul-quran",
+      "summary": "Belajar arti kemukjizatan dan mengapa Al-Qur'an disebut mukjizat terbesar Nabi."
+    },
+    {
+      "id": "lesson2",
+      "title": "Keajaiban Bahasa Al-Qur'an",
+      "slug": "keajaiban-bahasa",
+      "summary": "Melihat betapa indahnya susunan kata dalam Al-Qur'an yang tak tertandingi oleh sastrawan manapun."
+    },
+    {
+      "id": "lesson3",
+      "title": "Al-Qur'an dan Ilmu Pengetahuan",
+      "slug": "alquran-sains",
+      "summary": "Mengenal isyarat-isyarat ilmiah dalam Al-Qur'an yang baru terbukti kebenarannya di era modern."
+    }
+  ],
+  "next": {
+    "id": "bab7",
+    "slug": "cara-menafsirkan-al-quran",
+    "title": "Cara Menafsirkan Al-Qur'an"
+  }
+}

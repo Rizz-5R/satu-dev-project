@@ -1,0 +1,25 @@
+{
+  "id": "lesson3",
+  "title": "Syarat Menjadi Mufassir",
+  "slug": "syarat-mufassir",
+  "description": "Belajar bahwa untuk menafsirkan Al-Qur'an, seseorang harus memiliki bekal ilmu yang luas.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Siapa yang Boleh Menafsirkan?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Menafsirkan Al-Qur'an memerlukan perangkat ilmu yang sangat banyak agar tidak salah langkah dalam memaknai kalam Allah."
+    },
+    {
+      "type": "list",
+      "items": [
+        "Penguasaan Bahasa Arab yang mendalam (Nahwu, Shorof, Balaghah).",
+        "Pemahaman tentang ilmu hadis dan riwayat sahabat.",
+        "Penguasaan Ushul Fiqih untuk memahami hukum.",
+        "Pemahaman tentang ilmu Qira'at dan sejarah turunnya ayat (Asbabun Nuzul)."
+      ]
+    }
+  ]
+}

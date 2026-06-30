@@ -1,0 +1,41 @@
+{
+  "id": "lesson3",
+  "title": "Cara Menyikapi Ayat Mutasyabih",
+  "slug": "menyikapi-mutasyabih",
+  "description": "Belajar adab dan sikap yang benar agar tidak terjebak dalam penafsiran yang salah.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Bagaimana Cara Menyikapinya?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Para ulama memiliki pedoman tegas dalam menyikapi ayat mutasyabihat agar iman kita tetap terjaga dan pemahaman kita tidak melenceng."
+    },
+    {
+      "type": "heading",
+      "value": "Prinsip Utama"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Iman dan Taslim: Mengimani bahwa ayat tersebut benar dari Allah, meskipun maknanya belum sepenuhnya kita pahami secara detail.",
+        "Mengembalikan pada yang Muhkam: Menggunakan ayat-ayat yang jelas (muhkamat) sebagai bingkai untuk memahami ayat yang samar.",
+        "Tidak Memaksakan Logika: Tidak mencoba menafsirkan hal-hal gaib dengan akal manusia yang terbatas.",
+        "Waspada terhadap Provokasi: Menghindari orang-orang yang sengaja menyebarkan fitnah dengan menggunakan ayat-ayat mutasyabihat untuk mempertanyakan akidah."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Sikap Orang Berilmu"
+    },
+    {
+      "type": "paragraph",
+      "value": "Orang yang berilmu akan berkata: 'Kami beriman kepadanya, semuanya berasal dari Tuhan kami.' Mereka tidak membuang ayat tersebut, tapi juga tidak sombong dalam menafsirkan rahasia-Nya."
+    },
+    {
+      "type": "note",
+      "value": "Kunci ketenangan dalam beragama adalah fokus mengamalkan yang sudah jelas (Muhkamat) dan berpasrah (tawakkal) pada yang belum jelas (Mutasyabih)."
+    }
+  ]
+}

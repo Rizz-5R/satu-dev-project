@@ -1,0 +1,39 @@
+{
+  "id": "lesson2",
+  "title": "Mengenal Ayat Makkiyah & Madaniyah",
+  "slug": "makkiyah-madaniyah",
+  "description": "Memahami perbedaan mendasar antara ayat yang turun sebelum dan sesudah Nabi Hijrah ke Madinah.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Apa itu Makkiyah dan Madaniyah?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Dalam Ulumul Qur'an, ayat-ayat dibagi berdasarkan waktu dan tempat turunnya. Makkiyah adalah ayat-ayat yang turun sebelum Nabi Muhammad SAW hijrah ke Madinah, sedangkan Madaniyah adalah ayat-ayat yang turun setelah beliau hijrah."
+    },
+    {
+      "type": "heading",
+      "value": "Ciri-Ciri Utama"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Makkiyah: Umumnya pendek-pendek, bahasanya puitis dan kuat, fokus pada akidah (tauhid), kisah para nabi terdahulu, dan pembangunan karakter/akhlak.",
+        "Madaniyah: Umumnya lebih panjang, fokus pada hukum syariat (muamalah, ibadah, hukum waris, perang), penjelasan tentang aturan masyarakat, dan seruan kepada ahli kitab."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Mengapa Perlu Dibedakan?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Membedakan keduanya membantu kita memahami perkembangan dakwah Islam. Makkiyah meletakkan fondasi iman di hati umat, sementara Madaniyah menyusun aturan hidup bermasyarakat dan bernegara setelah umat Islam memiliki kekuatan."
+    },
+    {
+      "type": "note",
+      "value": "Penting untuk dipahami bahwa tidak semua ayat yang turun di Mekkah disebut Makkiyah, begitu juga sebaliknya. Kriteria utama bukanlah tempat turunnya, melainkan waktu turunnya (sebelum atau sesudah Hijrah)."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "bab2",
+  "title": "Sejarah Turunnya Al-Qur'an",
+  "slug": "sejarah-turunnya-al-quran",
+  "description": "Cari tahu gimana proses wahyu turun ke Nabi Muhammad SAW dan kisah di balik ayat-ayatnya.",
+  "order": 2,
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "Apa itu Asbabun Nuzul?",
+      "slug": "apa-itu-asbabun-nuzul",
+      "summary": "Mempelajari latar belakang atau peristiwa di balik turunnya suatu ayat."
+    },
+    {
+      "id": "lesson2",
+      "title": "Mengenal Ayat Makkiyah & Madaniyah",
+      "slug": "makkiyah-madaniyah",
+      "summary": "Memahami perbedaan ayat yang turun sebelum dan sesudah Nabi Hijrah ke Madinah."
+    }
+  ],
+  "next": {
+    "id": "bab3",
+    "slug": "rasm-dan-qiraat",
+    "title": "Kaidah Tekstual: Rasm & Qira'at"
+  }
+}

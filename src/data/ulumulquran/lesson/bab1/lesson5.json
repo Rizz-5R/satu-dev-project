@@ -1,0 +1,42 @@
+{
+  "id": "lesson5",
+  "title": "Peta Ilmu: Apa saja yang akan kita pelajari?",
+  "slug": "peta-ilmu",
+  "description": "Melihat gambaran besar seluruh cabang ilmu dalam Ulumul Qur'an yang akan menjadi petualangan belajar kita.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Menyusun Peta Belajar"
+    },
+    {
+      "type": "paragraph",
+      "value": "Setelah memahami sejarah dan pentingnya Ulumul Qur'an, sekarang saatnya kita melihat 'Peta Ilmu'. Ulumul Qur'an itu seperti sebuah gedung besar dengan banyak pintu. Setiap pintu adalah cabang ilmu yang akan membantu kita memahami Al-Qur'an secara utuh."
+    },
+    {
+      "type": "heading",
+      "value": "Cabang Utama yang Akan Kita Jelajahi"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Ilmu Sejarah: Tentang kapan, di mana, dan bagaimana wahyu turun (Nuzulul Qur'an & Asbabun Nuzul).",
+        "Ilmu Tekstual: Tentang bagaimana Al-Qur'an ditulis (Rasm) dan bagaimana cara membacanya (Qira'at).",
+        "Ilmu Hukum: Tentang aturan-aturan dalam ayat (Nasikh-Mansukh, Am-Khash).",
+        "Ilmu Makna: Tentang bagaimana memahami kandungan ayat yang jelas dan yang mendalam (Muhkamat-Mutasyabihat).",
+        "Ilmu Mukjizat: Tentang bukti bahwa Al-Qur'an bukan buatan manusia (I'jazul Qur'an)."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Siap Menjadi Pelajar Al-Qur'an?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Belajar ilmu-ilmu ini bukan hanya untuk mengisi kepala dengan teori, tapi untuk membuka hati agar lebih dekat dengan kalam Allah. Setiap bab yang akan kita lalui nanti adalah cara kita untuk menghargai kitab suci kita sendiri."
+    },
+    {
+      "type": "note",
+      "value": "Petualangan kita di bab-bab selanjutnya dimulai dari memahami sejarah turunnya ayat. Pastikan kamu selalu siap dengan rasa ingin tahu yang tinggi ya!"
+    }
+  ]
+}

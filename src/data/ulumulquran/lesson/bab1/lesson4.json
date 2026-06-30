@@ -1,0 +1,40 @@
+{
+  "id": "lesson4",
+  "title": "Gimana cara para ulama membukukan ilmu ini?",
+  "slug": "cara-ulama-membukukan",
+  "description": "Menelusuri sejarah perkembangan Ulumul Qur'an dari sekadar lisan menjadi disiplin ilmu yang terstruktur dalam kitab-kitab.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Dari Lisan ke Tulisan"
+    },
+    {
+      "type": "paragraph",
+      "value": "Pada awal masa Islam, pembahasan mengenai Al-Qur'an masih menyatu dengan ilmu lain, seperti ilmu Tafsir, ilmu Hadits, dan ilmu Fiqh. Para ulama saat itu lebih fokus menyampaikan ilmu secara lisan melalui majelis taklim."
+    },
+    {
+      "type": "heading",
+      "value": "Fase Perkembangan Kodifikasi"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Abad ke-2 Hijriah: Ulama mulai menulis karya spesifik untuk topik tertentu, seperti kitab tentang Asbabun Nuzul atau Nasikh-Mansukh saja.",
+        "Abad ke-3 Hijriah: Dimulainya penyusunan karya yang lebih komprehensif. Tokoh pelopornya adalah Ali bin Al-Madini (guru Imam Bukhari) yang menulis kitab khusus tentang Ulumul Qur'an.",
+        "Masa Keemasan (Abad ke-8 & 9 Hijriah): Ilmu ini mencapai puncaknya dengan karya-karya ensiklopedik seperti 'Al-Itqan fi Ulumil Qur'an' karya Imam As-Suyuthi, yang merangkum semua cabang ilmu Al-Qur'an menjadi satu kitab besar."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Kenapa Ulama Membukukannya?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Para ulama membukukan ilmu ini agar setiap orang yang ingin menafsirkan Al-Qur'an memiliki 'standar' yang jelas. Dengan adanya kitab-kitab ini, ilmu yang dulunya tersebar bisa dipelajari dengan sistematis oleh generasi berikutnya."
+    },
+    {
+      "type": "note",
+      "value": "Ingat ya, kitab-kitab ulama ini adalah hasil dedikasi luar biasa. Imam As-Suyuthi, misalnya, menulis kitab Al-Itqan dengan merujuk pada ratusan sumber ilmu agar pemahaman kita tentang Al-Qur'an terjaga keotentikannya."
+    }
+  ]
+}

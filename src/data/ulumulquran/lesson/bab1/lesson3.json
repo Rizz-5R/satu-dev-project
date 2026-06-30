@@ -1,0 +1,40 @@
+{
+  "id": "lesson3",
+  "title": "Kisah Al-Qur'an dari Masa ke Masa",
+  "slug": "sejarah-singkat",
+  "description": "Mengikuti perjalanan luar biasa Al-Qur'an, mulai dari hafalan di dada para sahabat hingga menjadi mushaf yang kita baca sekarang.",
+  "content": [
+    {
+      "type": "heading",
+      "value": "Perjalanan Panjang Al-Qur'an"
+    },
+    {
+      "type": "paragraph",
+      "value": "Al-Qur'an tidak langsung dibukukan menjadi satu kitab saat pertama kali turun. Perjalanannya melalui fase-fase yang sangat dijaga oleh Allah melalui tangan Rasulullah SAW dan para sahabatnya."
+    },
+    {
+      "type": "heading",
+      "value": "Fase-Fase Penting"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Masa Nabi Muhammad SAW: Al-Qur'an terjaga dalam hafalan para sahabat (Huffadz) dan ditulis di media sederhana seperti pelepah kurma, batu, dan kulit hewan.",
+        "Masa Khalifah Abu Bakar Ash-Shiddiq: Al-Qur'an dikumpulkan menjadi satu mushaf pertama atas usul Umar bin Khattab, karena banyaknya sahabat penghafal Al-Qur'an yang gugur di medan perang (Perang Yamamah).",
+        "Masa Khalifah Utsman bin Affan: Al-Qur'an disalin dan diseragamkan dalam satu dialek (Quraisy) untuk menjaga persatuan umat agar tidak terjadi perselisihan dalam cara membaca, yang kemudian dikenal sebagai Rasm Utsmani."
+      ]
+    },
+    {
+      "type": "heading",
+      "value": "Mengapa sejarah ini penting?"
+    },
+    {
+      "type": "paragraph",
+      "value": "Sejarah ini membuktikan bahwa Al-Qur'an adalah kitab yang paling autentik di dunia. Tidak ada satu huruf pun yang berubah sejak zaman Nabi hingga sekarang karena penjagaannya dilakukan secara tertulis dan lisan secara bersamaan."
+    },
+    {
+      "type": "note",
+      "value": "Tahukah kamu? Proses kodifikasi (pembukuan) ini adalah bentuk nyata janji Allah dalam Surah Al-Hijr ayat 9: 'Sesungguhnya Kamilah yang menurunkan Al-Qur'an dan sesungguhnya Kami benar-benar memeliharanya.'"
+    }
+  ]
+}
