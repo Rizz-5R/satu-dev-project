@@ -13,12 +13,6 @@ export function HadisButtons({ animate, baseTransition, visibleState, hiddenStat
           <ArrowRight className="w-4 h-4" />
         </button>
       </Link>
-
-      <button className="w-full sm:w-auto bg-white hover:bg-slate-50 hover:cursor-pointer text-slate-800 text-sm font-medium px-8 py-3.5 rounded-xl flex items-center justify-center gap-3 transition-all border border-[#DFD8C9] shadow-sm active:scale-[0.99]">
-        <Trophy className="w-4 h-4 text-[#B88E2F]" />
-        Mulai Quiz
-        <ArrowRight className="w-4 h-4 text-slate-400" />
-      </button>
     </div>
   );
 }
