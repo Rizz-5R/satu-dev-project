@@ -1,4 +1,4 @@
-export default function DeveloperCard({ name, role, initials, bio }) {
+export default function Developercard({ name, role, initials, bio }) {
   return (
     <article
       className="

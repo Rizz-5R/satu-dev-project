@@ -1,4 +1,4 @@
-export default function MissionItem({ icon, text }) {
+export default function Missionitem({ icon, text }) {
   return (
     <li className="flex items-start gap-3">
       <span

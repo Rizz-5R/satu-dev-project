@@ -49,12 +49,12 @@ const MISSION_ITEMS = [
   },
 ];
 
-export default function About() {
+export default function AboutPage() {
   return (
     <div className="min-h-screen bg-[#f8fafc]">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
 
-        {/* ── 1. Hero: Nama Website ──────────────────────────────────── */}
+        {/* ── 1. Hero: Nama Website */}
         <section className="text-center mb-16 sm:mb-20">
           <div
             className="
@@ -90,9 +90,6 @@ export default function About() {
             <h2 className="font-heading text-2xl sm:text-3xl font-semibold text-secondary-700 mb-2">
               Visi &amp; Misi
             </h2>
-            <p className="font-body text-sm text-secondary-400 max-w-md mx-auto">
-              Landasan yang menuntun arah pengembangan Suqura sebagai media belajar.
-            </p>
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
@@ -113,8 +110,7 @@ export default function About() {
               <p className="font-body text-sm text-secondary-700 leading-relaxed">
                 Menjadi platform belajar digital terpercaya yang menghadirkan kajian
                 Ulumul Qur'an dan Ulumul Hadis secara ringkas, terstruktur, dan mudah
-                diakses oleh siapa pun, kapan pun, dan di mana pun &mdash; menumbuhkan
-                kecintaan terhadap ilmu-ilmu keislaman di tengah perkembangan teknologi.
+                diakses oleh siapa pun, kapan pun, dan di mana pun.
               </p>
             </div>
 
@@ -139,7 +135,7 @@ export default function About() {
           </div>
         </section>
 
-        {/* ── 3. Profil Pengembang ───────────────────────────────────── */}
+        {/* ── 3. Profil Pengembang  */}
         <section>
           <div className="text-center mb-10">
             <h2 className="font-heading text-2xl sm:text-3xl font-semibold text-secondary-700 mb-2">

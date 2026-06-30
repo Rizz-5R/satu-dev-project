@@ -6,6 +6,8 @@ export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const navItems = [
   { name: "Beranda", path: "/" },
+  { name: "Qur'an", path: "/quran" },
+  { name: "Hadis", path: "/hadispage" },
   { name: "Quiz", path: "/quizpage"},
   { name: "About", path: "/aboutpage" },
 ];
@@ -47,21 +49,6 @@ export default function Navbar() {
     </NavLink>
   ))}
 </div>
-
-          {/* Right section */}
-          <div className="hidden md:flex items-center gap-3">
-            <div className="flex items-center gap-2 bg-gray-50 border border-gray-200 rounded-full px-3 py-1.5 text-sm text-gray-400 w-48">
-              <SearchIcon />
-              <span>Cari materi, tokoh...</span>
-            </div>
-
-            <button
-              className="text-sm font-semibold text-white px-4 py-1.5 rounded-full transition-opacity hover:opacity-90"
-              style={{ background: "#1B4D3E" }}
-            >
-              Login
-            </button>
-          </div>
 
           {/* Mobile hamburger */}
           <button
