@@ -77,10 +77,9 @@ export default function AboutPage() {
           </h1>
 
           <p className="font-body text-lg text-secondary-600 leading-relaxed max-w-2xl mx-auto">
-            Smart Encyclopedia for Qur'an &amp; Hadith Studies — sebuah platform pembelajaran
-            digital yang ringkas, responsif, dan mudah diakses untuk mendalami{' '}
-            <span className="font-semibold text-secondary-800">Ulumul Qur'an</span> dan{' '}
-            <span className="font-semibold text-secondary-800">Ulumul Hadis</span>.
+            Media Pembelajaran <span className="font-semibold text-secondary-800">Ulumul Qur'an</span> dan{' '}
+            <span className="font-semibold text-secondary-800">Ulumul Hadis</span> secara sistematis,
+            terstruktur, dan interaktif berdasarkan kurikulum yang telah disusun oleh para pakar dan ulama{' '}
           </p>
         </section>
 
